@@ -91,68 +91,6 @@ CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$高码
 赛事咪咕播37,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522&/PLTV/&$8M FHD
 赛事咪咕播4k,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UHD
 赛事至臻视界,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686&/PLTV/&$32M UHD
-4K频道,#genre#
-CCTV-16奥林匹克4K,https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-CCTV-4K超高清,https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-北京卫视4K,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-东方卫视4K,https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-江苏卫视4K,https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-浙江卫视4K,https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-山东卫视4K,https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-湖南卫视4K,https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-广东卫视4K,https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-深圳卫视4K,https://live.tv.darwinchow.com/channel/shenzhenweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-四川卫视4K,https://live.tv.darwinchow.com/channel/sichuanweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-欢笑剧场4K,https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-纯享4K,https://live.tv.darwinchow.com/channel/chunxiang4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
-咪视通php.jdshipin.com,#genre#
-咪咕4K-1,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000005180
-咪咕4K-2,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000015686
-咪视通-1,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000005308
-咪视通-2,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000005969
-咪视通-3,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000007218
-咪视通-4,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008001
-咪视通-5,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008176
-咪视通-6,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000008379
-咪视通-7,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000010129
-咪视通-8,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000010948
-咪视通-9,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000028638
-咪视通-10,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000001000031494
-咪视通-11,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000005837
-咪视通-12,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011518
-咪视通-13,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011519
-咪视通-14,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011520
-咪视通-15,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011521
-咪视通-16,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011522
-咪视通-17,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011523
-咪视通-18,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011524
-咪视通-19,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011525
-咪视通-20,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011528
-咪视通-21,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011529
-咪视通-22,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011530
-咪视通-23,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000020000011531
-咪视通-24,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000000097
-咪视通-25,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000002019
-咪视通-26,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000002809
-咪视通-27,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000003915
-咪视通-28,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000004193
-咪视通-29,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000006077
-咪视通-30,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000006658
-咪视通-31,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000009788
-咪视通-32,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000010833
-咪视通-33,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000011297
-咪视通-34,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000011518
-咪视通-35,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000012558
-咪视通-36,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000012616
-咪视通-37,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000015470
-咪视通-38,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000015560
-咪视通-39,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000017678
-咪视通-40,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000019839
-咪视通-41,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000021904
-咪视通-42,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000023434
-咪视通-43,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000025380
-咪视通-44,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000027691
-咪视通-45,http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000031669
 咪视通,#genre#
 咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&
@@ -512,9 +450,6 @@ TVB星河,https://cdn6.163189.xyz/163189/tvbxh#https://cdn9.163189.xyz/smt3.1.1.
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
 RTHK31,http://cdn.163189.xyz/163189/rthk31#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn
 RTHK32,http://cdn.163189.xyz/163189/rthk32#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk32_twn
-Now星影台720p,http://208.87.242.79/livehttpplay?channel_id=13003
-Now爆谷台720p,http://208.87.242.79/livehttpplay?channel_id=13002
-美亚电影台(粤)720p,http://208.87.242.79/livehttpplay?channel_id=20197
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
@@ -553,38 +488,6 @@ Now爆谷台720p,http://208.87.242.79/livehttpplay?channel_id=13002
 公視,http://74.91.26.218:82/live/pts.m3u8
 公視台語,http://74.91.26.218:82/live/ptsty.m3u8
 小公視,http://74.91.26.218:82/live/ptsse.m3u8
-FLV,#genre#
-无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
-明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
-翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
-TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
-TVB娱乐新闻台,http://pull-vivek.speedws.com/live/aaaylxw.flv
-MYTV SUPER 1,http://pull-vivek.speedws.com/live/aaamqxjd.flv
-MYTV SUPER 2 粵語片台,http://pull-vivek.speedws.com/live/aaahjfc.flv
-MYTV SUPER 3 亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
-MYTV SUPER 4 華語劇台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-MYTV SUPER 5 经典,http://208.87.242.79/livehttpplay?channel_id=13024
-MYTV SUPER 6 体育,http://208.87.242.79/livehttpplay?channel_id=13025
-MYTV SUPER 7 戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
-MYTV SUPER 8 黄金翡翠,http://pull-vivek.speedws.com/live/aaahjfc.flv
-MYTV SUPER 9 黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-MYTV SUPERFREE,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
-HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
-HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
-VIUTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
-VIUTV 6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
-美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
-天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
-ANIMAX,http://pull-vivek.speedws.com/live/aaaAnimax.flv
-AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
-POP C,http://pull-vivek.speedws.com/live/aaapopc.flv
-ROCK ACTION,http://pull-vivek.speedws.com/live/aaarock2.flv
-ROCK ENTERTAINMENT,http://pull-vivek.speedws.com/live/aaarock1.flv
 rrs03-央视频道,#genre#
 CCTV-1HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
 CCTV-1HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226638/1.m3u8

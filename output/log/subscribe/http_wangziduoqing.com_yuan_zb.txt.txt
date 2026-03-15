@@ -223,10 +223,6 @@ CGTN-æ³,http://go.bkpcp.top/mg/cgtnf
 å¤å°ä¸­æ,http://rihou.cc:555/tv/[Pd]å¤å°ä¸­æ
 å¤å°èµè®¯,http://rihou.cc:555/tv/[Pd]å¤å°èµè®¯
 å¤å°é¦æ¸¯,http://rihou.cc:555/tv/[Pd]å¤å°é¦æ¸¯
-æå½±,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hzSQ96&tk=iV5lh1rLxQGN
-çè°·,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=m8roOH&tk=iV5lh1rLxQGN
-POPC,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=QIke3G&tk=iV5lh1rLxQGN
-ç¾äº,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=te259H&tk=iV5lh1rLxQGN
 NOWæå½±å°,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715 
 PopC,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715 
 äºç¾çµå½±å°,http://pull-vivek.speedws.com/live/aaamydy.flv

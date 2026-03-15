@@ -453,6 +453,1164 @@ https://cdn10.163189.xyz/163189/xinghe
 https://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-name="å¤©æ ç»å¸" tvg-logo="https://logo.catvod.com/å¤©æ ç»å¸.png" group-title="æ¸¯æ¾³æ¨æµ",å¤©æ ç»å¸
 https://cdn10.163189.xyz/163189/ccm
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 ç¶å" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb99b9aff5_ZbUY.png" group-title="ð¨ð³ ä¸­å | China",CCTV-1 ç¶å
+https://smt.giptv.indevs.in/cctv1/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 è²¡ç¶" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9b73797b_7vO3.png" group-title="ð¨ð³ ä¸­å | China",CCTV-2 è²¡ç¶
+https://smt.giptv.indevs.in/cctv2/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3 ç¶è" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9d235349_uiZ3.png" group-title="ð¨ð³ ä¸­å | China",CCTV-3 ç¶è
+https://smt.giptv.indevs.in/cctv3/playlist.m3u8
+#EXTINF:-1 tvg-id="Cctv4" tvg-name="CCTV-4 ä¸­æåé" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6354f44c76785_7mux.png" group-title="ð¨ð³ ä¸­å | China",CCTV-4 ä¸­æåé
+https://smt.giptv.indevs.in/Cctv4/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4 ä¸­æåé (å:1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b1271a528652_NDoB.png" group-title="ð¨ð³ ä¸­å | China",CCTV-4 ä¸­æåé (å:1)
+https://smt.giptv.indevs.in/cctv4/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 é»å½±" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="ð¨ð³ ä¸­å | China",CCTV-6 é»å½±
+https://smt.giptv.indevs.in/cctv6/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7 è»äºè¾²æ¥­" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbb8e839a2_V374.png" group-title="ð¨ð³ ä¸­å | China",CCTV-7 è»äºè¾²æ¥­
+https://smt.giptv.indevs.in/cctv7/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv8hd" tvg-name="CCTV-8 é»è¦å" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbba9a3137_kOKc.png" group-title="ð¨ð³ ä¸­å | China",CCTV-8 é»è¦å
+https://smt.giptv.indevs.in/cctv8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv9hd" tvg-name="CCTV-9 ç´é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbcb4a553_0q2H.png" group-title="ð¨ð³ ä¸­å | China",CCTV-9 ç´é
+https://smt.giptv.indevs.in/cctv9hd/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv10hd" tvg-name="CCTV-10 ç§æ" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbea04618_zBOm.png" group-title="ð¨ð³ ä¸­å | China",CCTV-10 ç§æ
+https://smt.giptv.indevs.in/cctv10hd/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11 æ²æ²" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc0f86134_rO88.png" group-title="ð¨ð³ ä¸­å | China",CCTV-11 æ²æ²
+https://smt.giptv.indevs.in/cctv11/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12 ç¤¾æèæ³" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc2b8b19e_dYsa.png" group-title="ð¨ð³ ä¸­å | China",CCTV-12 ç¤¾æèæ³
+https://smt.giptv.indevs.in/cctv12/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14 å°å" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf747068391_e0gR.png" group-title="ð¨ð³ ä¸­å | China",CCTV-14 å°å
+https://smt.giptv.indevs.in/cctv14/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15 é³æ¨" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864f7965688_80ux.png" group-title="ð¨ð³ ä¸­å | China",CCTV-15 é³æ¨
+https://smt.giptv.indevs.in/cctv15/playlist.m3u8
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="æ¹åå«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e747a19c6f_a8Xj.png" group-title="ð¨ð³ ä¸­å | China",æ¹åå«è§
+https://smt.giptv.indevs.in/hunan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="æµæ±å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb6874b836_9q9M.png" group-title="ð¨ð³ ä¸­å | China",æµæ±å«è§
+https://smt.giptv.indevs.in/zhejiang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="æ±èå«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e74a487b89_HlXT.png" group-title="ð¨ð³ ä¸­å | China",æ±èå«è§
+https://smt.giptv.indevs.in/jiangsu_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 æ°èèé »é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png" group-title="ð¨ð³ ä¸­å | China",CCTV-13 æ°èèé »é
+https://smt.giptv.indevs.in/cctv13/playlist.m3u8
+#EXTINF:-1 tvg-id="shenzhen" tvg-name="æ·±å³å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d22ffdf55547_1u9U.png" group-title="ð¨ð³ ä¸­å | China",æ·±å³å«è§
+https://smt.giptv.indevs.in/shenzhen/playlist.m3u8
+#EXTINF:-1 tvg-id="fujian" tvg-name="ç¦å»ºä¸åå«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb74f1583c_5t42.png" group-title="ð¨ð³ ä¸­å | China",ç¦å»ºä¸åå«è§
+https://smt.giptv.indevs.in/fujian/playlist.m3u8
+#EXTINF:-1 tvg-id="nanfang_twn" tvg-name="å¹¿ä¸åæ¹å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf81edc187c_hGG8.jpg" group-title="ð¨ð³ ä¸­å | China",å¹¿ä¸åæ¹å«è§
+https://smt.giptv.indevs.in/nanfang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="å¹¿ä¸å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef9a1d2489b7_0J67.png" group-title="ð¨ð³ ä¸­å | China",å¹¿ä¸å«è§
+https://smt.giptv.indevs.in/guangdongweishi_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="beijing" tvg-name="åäº¬å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100738576f4_2rrh.png" group-title="ð¨ð³ ä¸­å | China",åäº¬å«è§
+https://smt.giptv.indevs.in/beijing/playlist.m3u8
+#EXTINF:-1 tvg-id="zhujiang" tvg-name="ç æ±å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a10083848a45_uvfB.png" group-title="ð¨ð³ ä¸­å | China",ç æ±å°
+https://smt.giptv.indevs.in/zhujiang/playlist.m3u8
+#EXTINF:-1 tvg-id="guangxi" tvg-name="å¹¿è¥¿å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100775e28cf_vd2Y.png" group-title="ð¨ð³ ä¸­å | China",å¹¿è¥¿å«è§
+https://smt.giptv.indevs.in/guangxi/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" group-title="ð¨ð³ ä¸­å | China",CGTN
+https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+#EXTINF:-1 tvg-id="hubei" tvg-name="æ¹åå«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1007f84d901_aDRq.png" group-title="ð¨ð³ ä¸­å | China",æ¹åå«è§
+https://smt.giptv.indevs.in/hubei/playlist.m3u8
+#EXTINF:-1 tvg-id="sichuan_twn" tvg-name="åå·å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb7ddc6b1e_6ShO.png" group-title="ð¨ð³ ä¸­å | China",åå·å«è§
+https://smt.giptv.indevs.in/sichuan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 é«è²" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" group-title="ð¨ð³ ä¸­å | China",CCTV-5 é«è²
+https://smt.giptv.indevs.in/cctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ é«è²" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" group-title="ð¨ð³ ä¸­å | China",CCTV-5+ é«è²
+https://smt.giptv.indevs.in/cctv5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="ä¸æ¹å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864e9323548_6NhQ.png" group-title="ð¨ð³ ä¸­å | China",ä¸æ¹å«è§
+https://smt.giptv.indevs.in/dongfangweishi_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="å¤å°å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png" group-title="ð¨ð³ ä¸­å | China",å¤å°å«è§
+https://smt.giptv.indevs.in/phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="é³³å°è³è¨" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png" group-title="ð¨ð³ ä¸­å | China",é³³å°è³è¨
+https://smt.giptv.indevs.in/phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="jade_twn" tvg-name="ç¿¡ç¿ å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873554e13c40_ly4d.webp" group-title="ð­ð° é¦æ¸¯ | Hong Kong",ç¿¡ç¿ å°
+https://smt.giptv.indevs.in/jade_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="jade_xue" tvg-name="ç¿¡ç¿ å° (Back up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687355759f7c6_zuuz.webp" group-title="ð­ð° é¦æ¸¯ | Hong Kong",ç¿¡ç¿ å° (Back up 1)
+https://smt.giptv.indevs.in/jade_xue/playlist.m3u8
+#EXTINF:-1 tvg-id="inews_twn" tvg-name="iNews äºåæ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",iNews äºåæ°èå°
+https://smt.giptv.indevs.in/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="j2_twn" tvg-name="J 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f0118662a_Y9Fw.jpg" group-title="ð­ð° é¦æ¸¯ | Hong Kong",J 2
+https://smt.giptv.indevs.in/j2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="pearl_twn" tvg-name="çç å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f06aa2a69_LRfF.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",çç å°
+https://smt.giptv.indevs.in/pearl_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hkphoenix_twn" tvg-name="å¤å°é¦æ¸¯" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5adfe1fc7982b_u0t8.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",å¤å°é¦æ¸¯
+https://smt.giptv.indevs.in/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hoycaijing_twn" tvg-name="æ çº¿è´¢ç»èµè®¯å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0362d914c11_xxl4.jpg" group-title="ð­ð° é¦æ¸¯ | Hong Kong",æ çº¿è´¢ç»èµè®¯å°
+https://smt.giptv.indevs.in/hoycaijing_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="rhk31_twn" tvg-name="RHK 31" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d03644fd07f5_kwZc.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",RHK 31
+https://smt.giptv.indevs.in/rhk31_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="viu1_twn" tvg-name="VIUTV1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0364d443b49_7r8B.jpg" group-title="ð­ð° é¦æ¸¯ | Hong Kong",VIUTV1
+https://smt.giptv.indevs.in/viu1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="rhk32_twn" tvg-name="RHK 32" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9ac2413b04b_4Hux.jpg" group-title="ð­ð° é¦æ¸¯ | Hong Kong",RHK 32
+https://smt.giptv.indevs.in/rhk32_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbasia" tvg-name="TVB Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Asia
+https://smt.giptv.indevs.in/Tvbasia/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="å¤å°å«è§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",å¤å°å«è§
+https://smt.giptv.indevs.in/phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="é³³å°è³è¨" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",é³³å°è³è¨
+https://smt.giptv.indevs.in/phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbentertainment" tvg-name="TVB Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a27fd0404_11Xu.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Entertainment
+https://smt.giptv.indevs.in/Tvbentertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a29a58ef6_Cow5.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",TVB Classic
+https://smt.giptv.indevs.in/Tvbclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="viusix_twn" tvg-name="Viu6" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac007da9b3_0p6I.png" group-title="ð­ð° é¦æ¸¯ | Hong Kong",Viu6
+https://smt.giptv.indevs.in/viusix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS æ­¡æ¨å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS æ­¡æ¨å°
+https://smt.giptv.indevs.in/tvbshuanle_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS HD
+https://smt.giptv.indevs.in/tvbs/playlist.m3u8
+#EXTINF:-1 tvg-id="ctient" tvg-name="ä¸­å¤©å¨±ä¹ CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©å¨±ä¹ CTI Entertaiment
+https://smt.giptv.indevs.in/ctient/playlist.m3u8
+#EXTINF:-1 tvg-id="ctizhonghe" tvg-name="ä¸­å¤©ç»¼å CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©ç»¼å CTI Metro
+https://smt.giptv.indevs.in/ctizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="ä¸­å¤©äºæ´²å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©äºæ´²å°
+https://smt.giptv.indevs.in/ctiasia_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="å°è§ TTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è§ TTV HD
+https://smt.giptv.indevs.in/ttv_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="å°è§ç»¼åå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è§ç»¼åå°
+https://smt.giptv.indevs.in/ttvzhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="ä¸­è§ HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­è§ HD
+https://smt.giptv.indevs.in/zhongshihd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="æ°è§ HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è§ HD
+https://smt.giptv.indevs.in/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="æ°è§å°æ¹¾å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è§å°æ¹¾å°
+https://smt.giptv.indevs.in/ftvtaiwan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ctshd_twn" tvg-name="åè§ CTS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åè§ CTS HD
+https://smt.giptv.indevs.in/ctshd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="å¬è§ CTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",å¬è§ CTV
+https://smt.giptv.indevs.in/ctv18_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="badafirst" tvg-name="å«å¤§ç¬¬ä¸ GTV First" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§ç¬¬ä¸ GTV First
+https://smt.giptv.indevs.in/badafirst/playlist.m3u8
+#EXTINF:-1 tvg-id="badazhonghe" tvg-name="å«å¤§ç»¼å GTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§ç»¼å GTV Metro
+https://smt.giptv.indevs.in/badazhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="badadrama" tvg-name="å«å¤§æå§ GTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§æå§ GTV Drama
+https://smt.giptv.indevs.in/badadrama/playlist.m3u8
+#EXTINF:-1 tvg-id="badaentertain" tvg-name="å«å¤§å¨±ä¹ GTV Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å«å¤§å¨±ä¹ GTV Entertainment
+https://smt.giptv.indevs.in/badaentertain/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO_HD
+https://smt.giptv.indevs.in/hbohd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO_HITS
+https://smt.giptv.indevs.in/hbohits_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="ð¹ð¼ å°ç£ | Taiwan",HBO Signature Taiwan
+https://smt.giptv.indevs.in/hbosignature_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Hollywood Movies
+https://smt.giptv.indevs.in/hollywoodmovies_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="ä¸ç«å°æ¹¾ Sanli Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«å°æ¹¾ Sanli Taiwan
+https://smt.giptv.indevs.in/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="ä¸ç«æå§å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«æå§å°
+https://smt.giptv.indevs.in/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="ä¸ç«ç»¼å Sanli Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«ç»¼å Sanli Metro
+https://smt.giptv.indevs.in/sanlizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="sanlidouhui_twn" tvg-name="ä¸ç«é½ä¼å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸ç«é½ä¼å°
+https://smt.giptv.indevs.in/sanlidouhui_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="ä¸æ£®ç»¼å ETTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®ç»¼å ETTV Metro
+https://smt.giptv.indevs.in/ettvzhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvdrama" tvg-name="ä¸æ£®æå§ ETTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®æå§ ETTV Drama
+https://smt.giptv.indevs.in/ettvdrama/playlist.m3u8
+#EXTINF:-1 tvg-id="ctv2_twn" tvg-name="å¬è§2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66e2bf9c477d9_w9D1.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",å¬è§2
+https://smt.giptv.indevs.in/ctv2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="daai_twn" tvg-name="å¤§ç±1å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¤§ç±1å°
+https://smt.giptv.indevs.in/daai_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="é¾åæå§ Lunghua Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åæå§ Lunghua Drama
+https://smt.giptv.indevs.in/lunghuaxiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="é¾åç»å¸å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f006937ee_hbZ8.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åç»å¸å°
+https://smt.giptv.indevs.in/lunghuajingdian_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="é¾åå¶å" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åå¶å
+https://smt.giptv.indevs.in/lunghuaidol_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="ð¹ð¼ å°ç£ | Taiwan",AXN Taiwan
+https://smt.giptv.indevs.in/axn_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="jingtianintl_twn" tvg-name="éå¤©å½éå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ee5e27819ade_882I.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¤©å½éå°
+https://smt.giptv.indevs.in/jingtianintl_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="ð¹ð¼ å°ç£ | Taiwan",CINEMAX
+https://smt.giptv.indevs.in/cinemax_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="niandainews_twn" tvg-name="å¹´ä»£æ°é»" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¹´ä»£æ°é»
+https://smt.giptv.indevs.in/niandainews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandjapan" tvg-name="çº¬æ¥æ¥æ¬å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥æ¥æ¬å°
+https://smt.giptv.indevs.in/videolandjapan/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandmovie" tvg-name="çº¬æ¥çµå½±å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥çµå½±å°
+https://smt.giptv.indevs.in/videolandmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandsport" tvg-name="çº¬æ¥ä½è²å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ä½è²å°
+https://smt.giptv.indevs.in/videolandsport/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandzonghe" tvg-name="çº¬æ¥ç»¼åå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ç»¼åå°
+https://smt.giptv.indevs.in/videolandzonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandmax" tvg-name="çº¬æ¥è²ä¹" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥è²ä¹
+https://smt.giptv.indevs.in/videolandmax/playlist.m3u8
+#EXTINF:-1 tvg-id="videolandtv" tvg-name="çº¬æ¥ç²¾å½©" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" group-title="ð¹ð¼ å°ç£ | Taiwan",çº¬æ¥ç²¾å½©
+https://smt.giptv.indevs.in/videolandtv/playlist.m3u8
+#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="ð¹ð¼ å°ç£ | Taiwan",DW (Deutsch)
+https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="good2_twn" tvg-name="å¥½æ¶æ¯ 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¥½æ¶æ¯ 2
+https://smt.giptv.indevs.in/good2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="daai2_twn" tvg-name="å¤§ç±2å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¤§ç±2å°
+https://smt.giptv.indevs.in/daai2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="afc_twn" tvg-name="äºæ´²ç¾é£" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",äºæ´²ç¾é£
+https://smt.giptv.indevs.in/afc_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc_twn" tvg-name="äºæ´²ææ¸¸ TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",äºæ´²ææ¸¸ TLC Asia
+https://smt.giptv.indevs.in/tlc_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="ä¸æ£®çµå½± ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®çµå½± ETTV Movie
+https://smt.giptv.indevs.in/ettvmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang_twn" tvg-name="é¿éé Arirang" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¿éé Arirang
+https://smt.giptv.indevs.in/arirang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="åæ¯è¿å¨ 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯è¿å¨ 1
+https://smt.giptv.indevs.in/bosisport1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="åæ¯è¿å¨ 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯è¿å¨ 2
+https://smt.giptv.indevs.in/bosisport2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="åæ¯é«ç2 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯é«ç2 HD
+https://smt.giptv.indevs.in/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bositennis_twn" tvg-name="åæ¯ç½ç HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯ç½ç HD
+https://smt.giptv.indevs.in/bositennis_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="ä¸æ£®æ´ç ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®æ´ç ETTV Western
+https://smt.giptv.indevs.in/ettvwestern/playlist.m3u8
+#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="é¾åæ´ç Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾åæ´ç Lunghua Western
+https://smt.giptv.indevs.in/lunghuawestern_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="åæ¯æ é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png" group-title="ð¹ð¼ å°ç£ | Taiwan",åæ¯æ é
+https://smt.giptv.indevs.in/bosiunlimited_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",MTV Live
+https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="é¾è¯¦æ¶ä»£" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",é¾è¯¦æ¶ä»£
+https://smt.giptv.indevs.in/lungxiangtime_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV ææ¸¸" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edfc5cb545_07F2.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",EYETV ææ¸¸
+https://smt.giptv.indevs.in/eyetvtravel_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="éå¤©å¡éå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¤©å¡éå°
+https://smt.giptv.indevs.in/jingtiancartoon_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV æå§" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",EYETV æå§
+https://smt.giptv.indevs.in/eyetvxiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="å«è§ä¸­æå° Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",å«è§ä¸­æå° Star Movies Chinese
+https://smt.giptv.indevs.in/weishichinese_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="ä¸æ£®å¹¼å¹¼ Yoyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸æ£®å¹¼å¹¼ Yoyo TV
+https://smt.giptv.indevs.in/yoyo_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="ç¾äºçµå½±" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ç¾äºçµå½±
+https://smt.giptv.indevs.in/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltadrama_twn" tvg-name="ç±å°è¾¾æå§å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b47f2c36f_f7lG.jpeg" group-title="ð¹ð¼ å°ç£ | Taiwan",ç±å°è¾¾æå§å°
+https://smt.giptv.indevs.in/eltadrama_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" group-title="ð¹ð¼ å°ç£ | Taiwan",TVBS News æ°èå°
+https://smt.giptv.indevs.in/tvbs_n/playlist.m3u8
+#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Asia Food Network
+https://smt.giptv.indevs.in/Afc/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvnews" tvg-name="æ±æ£®æ°è ETTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",æ±æ£®æ°è ETTV News
+https://smt.giptv.indevs.in/ettvnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="æ±æ£®è²¡ç¶æ°è ETTV Business" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ±æ£®è²¡ç¶æ°è ETTV Business
+https://smt.giptv.indevs.in/ettvcaijing_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ctinews" tvg-name="ä¸­å¤©æ°è CTI News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­å¤©æ°è CTI News
+https://smt.giptv.indevs.in/ctinews/playlist.m3u8
+#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="éå¡æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" group-title="ð¹ð¼ å°ç£ | Taiwan",éå¡æ°èå°
+https://smt.giptv.indevs.in/feifannews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="å°è¦æ°èå° TTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" group-title="ð¹ð¼ å°ç£ | Taiwan",å°è¦æ°èå° TTV News
+https://smt.giptv.indevs.in/ttvnews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Eltaä½è²1å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaä½è²1å°
+https://smt.giptv.indevs.in/eltasport1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Eltaé«è²2å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaé«è²2å°
+https://smt.giptv.indevs.in/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Eltaé«è²3å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" group-title="ð¹ð¼ å°ç£ | Taiwan",Eltaé«è²3å°
+https://smt.giptv.indevs.in/eltasport3_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="æ°è¦æ°èå° FTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ°è¦æ°èå° FTV News
+https://smt.giptv.indevs.in/ftvnew_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="å¯°å®æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" group-title="ð¹ð¼ å°ç£ | Taiwan",å¯°å®æ°èå°
+https://smt.giptv.indevs.in/huanyuxinwen_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="ä¸­è¦æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" group-title="ð¹ð¼ å°ç£ | Taiwan",ä¸­è¦æ°èå°
+https://smt.giptv.indevs.in/zhongshinews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="ð¹ð¼ å°ç£ | Taiwan",DAZN 1
+https://smt.giptv.indevs.in/dazn1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="ð¹ð¼ å°ç£ | Taiwan",DAZN 2
+https://smt.giptv.indevs.in/dazn2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="æ¢ç´¢é¢é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="ð¹ð¼ å°ç£ | Taiwan",æ¢ç´¢é¢é
+https://smt.giptv.indevs.in/discoverych_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkg_japan" tvg-name="NHK-ç·å-2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aeded5e1a572_L8od.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK-ç·å-2
+https://smt.giptv.indevs.in/nhkg_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="nhke_japan" tvg-name="NHK-E" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aededab2e3c3_8NNR.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK-E
+https://smt.giptv.indevs.in/nhke_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="asahitv_japan" tvg-name="ãã¬ãææ¥ Asahi TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedee79e389c_d18e.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",ãã¬ãææ¥ Asahi TV
+https://smt.giptv.indevs.in/asahitv_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="jettv_japan" tvg-name="JET ç¶å" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedec68ee3ce_25ZB.png" group-title="ð¯ðµ æ¥æ¬ | Japan",JET ç¶å
+https://smt.giptv.indevs.in/jettv_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="tokyotv_japan" tvg-name="ãã¬ãæ±äº¬ Tokyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedeefd3fbb2_bR8K.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",ãã¬ãæ±äº¬ Tokyo TV
+https://smt.giptv.indevs.in/tokyotv_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="tokyomx_japan" tvg-name="TOKYOMX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedef71785ca_JKjZ.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",TOKYOMX
+https://smt.giptv.indevs.in/tokyomx_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkbs1_japan" tvg-name="NHKBS1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf21de25da_HS3R.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",NHKBS1
+https://smt.giptv.indevs.in/nhkbs1_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkpremium_japan" tvg-name="NHKBSãã¬ãã¢ Premium" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf2639f151_F5H6.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",NHKBSãã¬ãã¢ Premium
+https://smt.giptv.indevs.in/nhkpremium_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="bs181_japan" tvg-name="BSã¸ã£ãã³ 181" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf35aae288_A34G.png" group-title="ð¯ðµ æ¥æ¬ | Japan",BSã¸ã£ãã³ 181
+https://smt.giptv.indevs.in/bs181_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="bsfuji_japan" tvg-name="BSãã¸ BS Fuji" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf39725ca1_hD8X.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",BSãã¸ BS Fuji
+https://smt.giptv.indevs.in/bsfuji_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="cna_japan" tvg-name="CNA Japan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf9959bae8_0j0Y.png" group-title="ð¯ðµ æ¥æ¬ | Japan",CNA Japan
+https://smt.giptv.indevs.in/cna_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="bstbs_japan" tvg-name="BS-TBS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d79d296d5c_wYKk.png" group-title="ð¯ðµ æ¥æ¬ | Japan",BS-TBS
+https://smt.giptv.indevs.in/bstbs_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkosaka_japan" tvg-name="NHK Oaska" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d7b0a69215_N6az.jpg" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK Oaska
+https://smt.giptv.indevs.in/nhkosaka_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="ð¯ðµ æ¥æ¬ | Japan",NHK World
+https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang_twn" tvg-name="Arirang HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" group-title="ð°ð· éå | South Korea",Arirang HD
+https://smt.giptv.indevs.in/arirang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="yonhapnews_korea" tvg-name="Yonhap News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4686a2e5_QQCz.png" group-title="ð°ð· éå | South Korea",Yonhap News
+https://smt.giptv.indevs.in/yonhapnews_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="cbs_korea" tvg-name="CBS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb08904e62_zFph.png" group-title="ð°ð· éå | South Korea",CBS
+https://smt.giptv.indevs.in/cbs_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs1_korea" tvg-name="EBS 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac56a260e8_Lx0W.png" group-title="ð°ð· éå | South Korea",EBS 1
+https://smt.giptv.indevs.in/ebs1_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ebs2_korea" tvg-name="EBS2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb0d927d1d_6EaA.png" group-title="ð°ð· éå | South Korea",EBS2
+https://smt.giptv.indevs.in/ebs2_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ebsplus2_korea" tvg-name="EBS Plus2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb11e57dea_06bi.jpg" group-title="ð°ð· éå | South Korea",EBS Plus2
+https://smt.giptv.indevs.in/ebsplus2_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="sbsplus_korea" tvg-name="SBS Plus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb17e8d5b5_zt6T.png" group-title="ð°ð· éå | South Korea",SBS Plus
+https://smt.giptv.indevs.in/sbsplus_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ytn_korea" tvg-name="YTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac1f0e6107_TlZT.png" group-title="ð°ð· éå | South Korea",YTN
+https://smt.giptv.indevs.in/ytn_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="kbsworld24_korea" tvg-name="KBS World 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac24c2c8dd_99xd.jpg" group-title="ð°ð· éå | South Korea",KBS World 24
+https://smt.giptv.indevs.in/kbsworld24_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ytnscience_korea" tvg-name="YTN Science" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac35893c14_9fd9.png" group-title="ð°ð· éå | South Korea",YTN Science
+https://smt.giptv.indevs.in/ytnscience_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ytnkorean_korea" tvg-name="YTN Korean" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac39701e9b_TM4a.png" group-title="ð°ð· éå | South Korea",YTN Korean
+https://smt.giptv.indevs.in/ytnkorean_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ytndmb_korea" tvg-name="YTN DMB" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac3cd1cf33_s57d.png" group-title="ð°ð· éå | South Korea",YTN DMB
+https://smt.giptv.indevs.in/ytndmb_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="appongoogle_korea" tvg-name="Apps TV" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð°ð· éå | South Korea",Apps TV
+https://smt.giptv.indevs.in/appongoogle_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="allthekpop_korea" tvg-name="All the Kpop" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4bbaa0df_8s7B.png" group-title="ð°ð· éå | South Korea",All the Kpop
+https://smt.giptv.indevs.in/allthekpop_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="jthekpop_korea" tvg-name="J the Kpop" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð°ð· éå | South Korea",J the Kpop
+https://smt.giptv.indevs.in/jthekpop_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="ebskids_korea" tvg-name="EBS Kids" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5a3a4ec0_lBY2.png" group-title="ð°ð· éå | South Korea",EBS Kids
+https://smt.giptv.indevs.in/ebskids_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="cgntv_korea" tvg-name="CGNTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac62748808_59Yv.png" group-title="ð°ð· éå | South Korea",CGNTV
+https://smt.giptv.indevs.in/cgntv_korea/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5HD" tvg-name="Channel 5" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1586ec269_o2Me.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 5
+https://smt.giptv.indevs.in/Channel5HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_ch5" tvg-name="Channel 5 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b157aa4baf_l0Ja.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 5 backup
+https://smt.giptv.indevs.in/Mewatch_ch5/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8HD" tvg-name="Channel 8" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1590c0b47_NFzf.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 8
+https://smt.giptv.indevs.in/Channel8HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_ch8" tvg-name="Channel 8 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15a592231_P9T3.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel 8 backup
+https://smt.giptv.indevs.in/Mewatch_ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15d38c8ab_5d38.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel U
+https://smt.giptv.indevs.in/ChannelU/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_chU" tvg-name="Channel U backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15e094c01_FpLQ.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Channel U backup
+https://smt.giptv.indevs.in/Mewatch_chU/playlist.m3u8
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b0c13d9_0Cf7.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Suria
+https://smt.giptv.indevs.in/Suria/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_Suria" tvg-name="Suria backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b7ccc43_707s.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",Suria backup
+https://smt.giptv.indevs.in/Mewatch_Suria/playlist.m3u8
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1607166a7_gV7i.jpg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Vasantham
+https://smt.giptv.indevs.in/Vasantham/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_Vasantham" tvg-name="Vasantham backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6690ff4482a5c_mmEk.jpeg" group-title="ð¸ð¬ æ°å å¡ | Singapore",Vasantham backup
+https://smt.giptv.indevs.in/Mewatch_Vasantham/playlist.m3u8
+#EXTINF:-1 tvg-id="Mewatch_cna" tvg-name="CNA backup1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b156c4f2d5_wdd0.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA backup1
+https://smt.giptv.indevs.in/Mewatch_cna/playlist.m3u8
+#EXTINF:-1 tvg-id="cna_twn" tvg-name="CNA backup2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1560ce063_SBS2.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA backup2
+https://smt.giptv.indevs.in/cna_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNN
+https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNN backup
+https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="ð¸ð¬ æ°å å¡ | Singapore",CNA
+https://smt.giptv.indevs.in/cna/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c133979efad5_VpBu.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV1
+https://smt.giptv.indevs.in/TV1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1_backup" tvg-name="TV1 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6432c5ba2b936_0iGE.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV1 backup
+https://smt.giptv.indevs.in/TV1_backup/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd05bc748_nI07.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV2
+https://smt.giptv.indevs.in/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5be4fcde28d82_pYZ8.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3
+https://smt.giptv.indevs.in/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3_mega" tvg-name="TV3 SD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d5161f97fa0_JTX7.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 SD
+https://smt.giptv.indevs.in/TV3_mega/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3_backup" tvg-name="TV3 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68ce7c1426b78_75qr.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 backup
+https://smt.giptv.indevs.in/TV3_backup/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3_1" tvg-name="TV3 backup2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68ce7d59388de_PZdK.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV3 backup2
+https://smt.giptv.indevs.in/TV3_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282880bb73e_g2j2.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV5
+https://smt.giptv.indevs.in/TV5/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd41c9120_MyD6.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NTV7
+https://smt.giptv.indevs.in/NTV7/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-name="8TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687347e5883d7_sDFu.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",8TV
+https://smt.giptv.indevs.in/TV8/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd91afc0d_GwBt.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TV9
+https://smt.giptv.indevs.in/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="Alhijrah" tvg-name="Al-Hijrah" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fd8679ed60_ECrF.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Al-Hijrah
+https://smt.giptv.indevs.in/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="quran_mido" tvg-name="Quran" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68329391af969_0O50.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Quran
+https://smt.giptv.indevs.in/quran_mido/playlist.m3u8
+#EXTINF:-1 tvg-id="sunnah_mido" tvg-name="Sunnah" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/683293a92886c_VLYc.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sunnah
+https://smt.giptv.indevs.in/sunnah_mido/playlist.m3u8
+#EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971ff8752f79_777W.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bernama
+https://smt.giptv.indevs.in/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971ff717d4fd_2diW.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Awani
+https://smt.giptv.indevs.in/Awani/playlist.m3u8
+#EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/638aac7d62c9d_H6H5.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ceria
+https://smt.giptv.indevs.in/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b0511221c87d_EbX5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Oasis
+https://smt.giptv.indevs.in/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fc1c84d88fe2_SWyt.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Boo
+https://smt.giptv.indevs.in/Boo/playlist.m3u8
+#EXTINF:-1 tvg-id="AAcitra1" tvg-name="Citra" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64d7ad1693676_j0VJ.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Citra
+https://smt.giptv.indevs.in/AAcitra1/playlist.m3u8
+#EXTINF:-1 tvg-id="AAcitra1" tvg-name="Citra backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d04e2df144f_9z8h.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Citra backup
+https://smt.giptv.indevs.in/AAcitra1/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051150ecc8f_99zC.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Prima
+https://smt.giptv.indevs.in/Prima/playlist.m3u8
+#EXTINF:-1 tvg-id="AAprima" tvg-name="Prima backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca3c5391e02_2TTQ.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Prima backup
+https://smt.giptv.indevs.in/AAprima/playlist.m3u8
+#EXTINF:-1 tvg-id="Ria-0" tvg-name="Ria" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63301c51381ae_hOoY.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ria
+https://smt.giptv.indevs.in/Ria-0/playlist.m3u8
+#EXTINF:-1 tvg-id="Ria_backup" tvg-name="Ria-3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65ffd20d8ad4b_Ne3n.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Ria-3
+https://smt.giptv.indevs.in/Ria_backup/playlist.m3u8
+#EXTINF:-1 tvg-id="Dsangat" tvg-name="Awesome TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62690de5ae919_5d33.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Awesome TV
+https://smt.giptv.indevs.in/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/652fcefc9854f_YcQe.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Aura
+https://smt.giptv.indevs.in/Aura/playlist.m3u8
+#EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/658fd2b4c7dd0_ll19.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sensasi
+https://smt.giptv.indevs.in/Sensasi/playlist.m3u8
+#EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/667b78d3712a9_fFF9.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Siar
+https://smt.giptv.indevs.in/Siar/playlist.m3u8
+#EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63db11bc22f4f_G447.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rania
+https://smt.giptv.indevs.in/Rania/playlist.m3u8
+#EXTINF:-1 tvg-id="Wion" tvg-name="WION" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a86924f8a_9b76.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",WION
+https://smt.giptv.indevs.in/Wion/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroMTV" tvg-name="Astro MTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6615dd60b5fba_mDFL.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro MTV
+https://smt.giptv.indevs.in/AstroMTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena
+https://smt.giptv.indevs.in/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena 2
+https://smt.giptv.indevs.in/Arena2/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolaarena1" tvg-name="Arena Bola 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena Bola 1
+https://smt.giptv.indevs.in/Bolaarena1/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolaarena2" tvg-name="Arena Bola 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Arena Bola 2
+https://smt.giptv.indevs.in/Bolaarena2/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NatGeo_Wild HD
+https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="Rtmsport" tvg-name="RTM Sports HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",RTM Sports HD
+https://smt.giptv.indevs.in/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Animal_Planet
+https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Family
+https://smt.giptv.indevs.in/Hbofamily/playlist.m3u8
+#EXTINF:-1 tvg-id="Showcase" tvg-name="Showcase" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/688dc1e138652_KC5L.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Showcase
+https://smt.giptv.indevs.in/Showcase/playlist.m3u8
+#EXTINF:-1 tvg-id="Rtmasean" tvg-name="RTM Asean" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a88500229_XU3K.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",RTM Asean
+https://smt.giptv.indevs.in/Rtmasean/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HGTV
+https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="go_badminton1" tvg-name="Astro Badminton" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Badminton
+https://smt.giptv.indevs.in/go_badminton1/playlist.m3u8
+#EXTINF:-1 tvg-id="go_badminton2" tvg-name="Astro Badminton 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Badminton 2
+https://smt.giptv.indevs.in/go_badminton2/playlist.m3u8
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TLC
+https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Foodnetwork Hd
+https://smt.giptv.indevs.in/Foodnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Axn HD
+https://smt.giptv.indevs.in/Axn/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO HD
+https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbosignature" tvg-name="HBO Signature" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Signature
+https://smt.giptv.indevs.in/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",HBO Hits
+https://smt.giptv.indevs.in/Hbohitshd/playlist.m3u8
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Dreamworks
+https://smt.giptv.indevs.in/Dreamworks/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773729d75f1_9N5b.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Nickelodeon
+https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickjr" tvg-name="Nick Jr" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773774ec65b_g2p5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Nick Jr
+https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2158e819c10_pwud.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Cartoon Network
+https://smt.giptv.indevs.in/Cn/playlist.m3u8
+#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Asia Food Network
+https://smt.giptv.indevs.in/Afc/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Animal Planet (Eng)
+https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NatGeo Wild HD
+https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TvN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f7ef947e366c_28ky.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TvN
+https://smt.giptv.indevs.in/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS" tvg-name="KBS World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636e0d6d65552_6VnU.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",KBS World
+https://smt.giptv.indevs.in/KBS/playlist.m3u8
+#EXTINF:-1 tvg-id="SetOne" tvg-name="Sony HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6040d4726400b_l42l.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Sony HD
+https://smt.giptv.indevs.in/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",tvN Movie
+https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astrol Kplus
+https://smt.giptv.indevs.in/Kplus/playlist.m3u8
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",One
+https://smt.giptv.indevs.in/One/playlist.m3u8
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597200ac0df0a_0S0G.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",AEC
+https://smt.giptv.indevs.in/AEC/playlist.m3u8
+#EXTINF:-1 tvg-id="Aodhd" tvg-name="AOD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63e5c4febde6b_bXAg.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",AOD
+https://smt.giptv.indevs.in/Aodhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Wlt" tvg-name="åä¸½å° HD (Wah Lai Toi)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70855bd40f6_rUNh.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",åä¸½å° HD (Wah Lai Toi)
+https://smt.giptv.indevs.in/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="Huahee" tvg-name="æ¬¢åå° HD(Hua Hee Tai)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7084dfb3b50_naze.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",æ¬¢åå° HD(Hua Hee Tai)
+https://smt.giptv.indevs.in/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="Quanjia" tvg-name="Astro QJ" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bb2163ab554f_7JHJ.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro QJ
+https://smt.giptv.indevs.in/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbjade" tvg-name="TVB Jade" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a1db489cf_8hfF.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Jade
+https://smt.giptv.indevs.in/Tvbjade/playlist.m3u8
+#EXTINF:-1 tvg-id="Qiyi" tvg-name="ç±å¥èº iQiyi" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d74be1faa9d7_oGUh.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",ç±å¥èº iQiyi
+https://smt.giptv.indevs.in/Qiyi/playlist.m3u8
+#EXTINF:-1 tvg-id="Xinhe" tvg-name="TVB ææ²³å°  Xing He" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cb640029fe5_Yxzv.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB ææ²³å°  Xing He
+https://smt.giptv.indevs.in/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Discovery Asia
+https://smt.giptv.indevs.in/Discoveryasia/playlist.m3u8
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Dmax
+https://smt.giptv.indevs.in/Dmax/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbasia" tvg-name="TVB Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Asia
+https://smt.giptv.indevs.in/Tvbasia/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbentertainment" tvg-name="TVB Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a27fd0404_11Xu.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Entertainment
+https://smt.giptv.indevs.in/Tvbentertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a29a58ef6_Cow5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",TVB Classic
+https://smt.giptv.indevs.in/Tvbclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Celestial Classic
+https://smt.giptv.indevs.in/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestial" tvg-name="Celestial Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5decd54011473_yII5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Celestial Movies HD
+https://smt.giptv.indevs.in/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rock Actions
+https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Rock Entertainment
+https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+#EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007ddb953e7_gcyW.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bollyone
+https://smt.giptv.indevs.in/Bollyone/playlist.m3u8
+#EXTINF:-1 tvg-id="Sunmusic" tvg-name="Astro Sunmusic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007f816651c_PI50.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro Sunmusic
+https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="Thangathirai" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282f8f72628_xa5b.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Thangathirai
+https://smt.giptv.indevs.in/Thangathirai/playlist.m3u8
+#EXTINF:-1 tvg-id="Vinmeen" tvg-name="Vinmeen" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282fb923acd_QsnE.jpeg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Vinmeen
+https://smt.giptv.indevs.in/Vinmeen/playlist.m3u8
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66c8e2afe9fa7_NNg5.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Vellithirai
+https://smt.giptv.indevs.in/Vellithirai/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro_lol" tvg-name="Astro LOL" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a82c628f8_iNkO.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Astro LOL
+https://smt.giptv.indevs.in/Astro_lol/playlist.m3u8
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al_Jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Al_Jazeera
+https://smt.giptv.indevs.in/Aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNN
+https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNN backup
+https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f69e925d7c6c_0tcF.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",BBC World News
+https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNBC
+https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcbc5460bb_wkzS.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Bloomberg TV
+https://smt.giptv.indevs.in/Bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",CNA
+https://smt.giptv.indevs.in/cna/playlist.m3u8
+#EXTINF:-1 tvg-id="Dw" tvg-name="DW" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcc5bf2af2_QS8q.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",DW
+https://smt.giptv.indevs.in/Dw/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-name="France 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccbf74ff6_GXzb.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",France 24
+https://smt.giptv.indevs.in/France24/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcdd832b40_4793.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Eurosport
+https://smt.giptv.indevs.in/Eurosport/playlist.m3u8
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbce29bcfe9_RNF6.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",Skynews
+https://smt.giptv.indevs.in/Skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKpremium" tvg-name="NHK Premium" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbceda857b0_rPg7.png" group-title="ð²ð¾ é¦¬ä¾è¥¿äº | Malaysia",NHK Premium
+https://smt.giptv.indevs.in/NHKpremium/playlist.m3u8
+#EXTINF:-1 tvg-id="ch3_pat" tvg-name="Channel 3 Thailand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e70c40dd4_T8h6.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 3 Thailand
+https://smt.giptv.indevs.in/ch3_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="ch5_pat" tvg-name="Channel 5 Thailand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e71f9cee0_XB5x.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 5 Thailand
+https://smt.giptv.indevs.in/ch5_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="ch7_pat" tvg-name="Channel 7 Thailand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e732f3348_Ffio.png" group-title="ð¹ð­ æ³°å | Thailand",Channel 7 Thailand
+https://smt.giptv.indevs.in/ch7_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="mcot_pat" tvg-name="MCOT HD Thailand-1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161a61b037_yk0Y.png" group-title="ð¹ð­ æ³°å | Thailand",MCOT HD Thailand-1
+https://smt.giptv.indevs.in/mcot_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="pptv_pat" tvg-name="PPTV Thailand1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161cd2228a_YN8B.png" group-title="ð¹ð­ æ³°å | Thailand",PPTV Thailand1
+https://smt.giptv.indevs.in/pptv_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="thaithai_pat" tvg-name="Thai Thai" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ce2b42784930_uGGp.png" group-title="ð¹ð­ æ³°å | Thailand",Thai Thai
+https://smt.giptv.indevs.in/thaithai_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="amarin_pat" tvg-name="Amarin" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6bff61073_5wWR.jpg" group-title="ð¹ð­ æ³°å | Thailand",Amarin
+https://smt.giptv.indevs.in/amarin_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="ch8_pat" tvg-name="Ch 8" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c2cc80d8_WEQW.jpg" group-title="ð¹ð­ æ³°å | Thailand",Ch 8
+https://smt.giptv.indevs.in/ch8_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="gmmone_pat" tvg-name="GmmOne" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c58f1bd5_vTOq.jpg" group-title="ð¹ð­ æ³°å | Thailand",GmmOne
+https://smt.giptv.indevs.in/gmmone_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="mono_pat" tvg-name="Mono" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c7bb98e0_HaF9.jpg" group-title="ð¹ð­ æ³°å | Thailand",Mono
+https://smt.giptv.indevs.in/mono_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="thairath_pat" tvg-name="Thairath" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6ca5ef161_zub7.jpg" group-title="ð¹ð­ æ³°å | Thailand",Thairath
+https://smt.giptv.indevs.in/thairath_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="tpbs_pat" tvg-name="tpbs" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cd48b4f1_G59B.jpg" group-title="ð¹ð­ æ³°å | Thailand",tpbs
+https://smt.giptv.indevs.in/tpbs_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="workpoint_pat" tvg-name="Workpoint" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cfb7ab51_1Iot.jpg" group-title="ð¹ð­ æ³°å | Thailand",Workpoint
+https://smt.giptv.indevs.in/workpoint_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="gmmchannel_pat" tvg-name="Gmm Channel" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d2f39072_6OC4.jpg" group-title="ð¹ð­ æ³°å | Thailand",Gmm Channel
+https://smt.giptv.indevs.in/gmmchannel_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="nation_pat" tvg-name="Nation" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d5c60ab4_q47M.png" group-title="ð¹ð­ æ³°å | Thailand",Nation
+https://smt.giptv.indevs.in/nation_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="tnn24_pat" tvg-name="Tnn24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d8843603_4UjT.jpg" group-title="ð¹ð­ æ³°å | Thailand",Tnn24
+https://smt.giptv.indevs.in/tnn24_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="nbt_pat" tvg-name="Nbt" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dae4e33a_R8Nn.jpg" group-title="ð¹ð­ æ³°å | Thailand",Nbt
+https://smt.giptv.indevs.in/nbt_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="new_pat" tvg-name="New" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dcc71d25_Z59H.jpg" group-title="ð¹ð­ æ³°å | Thailand",New
+https://smt.giptv.indevs.in/new_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="tptv_pat" tvg-name="TPTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6df1cfb05_Cdhn.jpg" group-title="ð¹ð­ æ³°å | Thailand",TPTV
+https://smt.giptv.indevs.in/tptv_pat/playlist.m3u8
+#EXTINF:-1 tvg-id="AAA1" tvg-name="Test 1" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð¹ð­ æ³°å | Thailand",Test 1
+https://smt.giptv.indevs.in/AAA1/playlist.m3u8
+#EXTINF:-1 tvg-id="AAA2" tvg-name="Test 2" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð¹ð­ æ³°å | Thailand",Test 2
+https://smt.giptv.indevs.in/AAA2/playlist.m3u8
+#EXTINF:-1 tvg-id="AAA3" tvg-name="Test 3" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð¹ð­ æ³°å | Thailand",Test 3
+https://smt.giptv.indevs.in/AAA3/playlist.m3u8
+#EXTINF:-1 tvg-id="AAA4" tvg-name="Test 4" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð¹ð­ æ³°å | Thailand",Test 4
+https://smt.giptv.indevs.in/AAA4/playlist.m3u8
+#EXTINF:-1 tvg-id="AAA5" tvg-name="Test 5" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð¹ð­ æ³°å | Thailand",Test 5
+https://smt.giptv.indevs.in/AAA5/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_antv" tvg-name="ANTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" group-title="ð»ð³ è¶å | Vietnam",ANTV
+https://smt.giptv.indevs.in/vtn_antv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_vtv1" tvg-name="VTV 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919dffee49d_PX1x.png" group-title="ð»ð³ è¶å | Vietnam",VTV 1
+https://smt.giptv.indevs.in/vtn_vtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_vtv3" tvg-name="VTV 3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383832f484_cZjE.png" group-title="ð»ð³ è¶å | Vietnam",VTV 3
+https://smt.giptv.indevs.in/vtn_vtv3/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_vtv4" tvg-name="VTV 4" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893839e3ccf3_JYI5.png" group-title="ð»ð³ è¶å | Vietnam",VTV 4
+https://smt.giptv.indevs.in/vtn_vtv4/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_vtv6" tvg-name="VTV 6" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383b6b9644_9077.png" group-title="ð»ð³ è¶å | Vietnam",VTV 6
+https://smt.giptv.indevs.in/vtn_vtv6/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_htv7" tvg-name="HTV 7" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919e86b58c6_Z5Ei.png" group-title="ð»ð³ è¶å | Vietnam",HTV 7
+https://smt.giptv.indevs.in/vtn_htv7/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_htv9" tvg-name="HTV 9" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919eba63ed7_mxc0.png" group-title="ð»ð³ è¶å | Vietnam",HTV 9
+https://smt.giptv.indevs.in/vtn_htv9/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_thvl" tvg-name="THVL HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" group-title="ð»ð³ è¶å | Vietnam",THVL HD
+https://smt.giptv.indevs.in/vtn_thvl/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_tbktv" tvg-name="TBKTV" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð»ð³ è¶å | Vietnam",TBKTV
+https://smt.giptv.indevs.in/vtn_tbktv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_btvhd" tvg-name="BTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938686dba8c_rV34.png" group-title="ð»ð³ è¶å | Vietnam",BTV HD
+https://smt.giptv.indevs.in/vtn_btvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="vtn_ctvhd" tvg-name="CTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938699e928b_666x.png" group-title="ð»ð³ è¶å | Vietnam",CTV HD
+https://smt.giptv.indevs.in/vtn_ctvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRi National" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b868548cd8db_6uIi.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",TVRi National
+https://smt.giptv.indevs.in/TVRI/playlist.m3u8
+#EXTINF:-1 tvg-id="Rcti" tvg-name="RCTI" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720e1c86fdf_RNTK.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",RCTI
+https://smt.giptv.indevs.in/Rcti/playlist.m3u8
+#EXTINF:-1 tvg-id="Kompass" tvg-name="Kompass TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dbfc7a1f_61p1.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Kompass TV
+https://smt.giptv.indevs.in/Kompass/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu_eko" tvg-name="Berita Satu" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f00764563909_bMva.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Berita Satu
+https://smt.giptv.indevs.in/BeritaSatu_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5caf378249963_FkKU.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Indosiar HD
+https://smt.giptv.indevs.in/Indosiar/playlist.m3u8
+#EXTINF:-1 tvg-id="metrotv_eko" tvg-name="Metro TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216573903bf_s163.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Metro TV
+https://smt.giptv.indevs.in/metrotv_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dd61dfe1_76P7.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",SCTV
+https://smt.giptv.indevs.in/SCTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Antv" tvg-name="AnTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",AnTV
+https://smt.giptv.indevs.in/Antv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnctv" tvg-name="MNC TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d721d4389da4_G1ZL.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",MNC TV
+https://smt.giptv.indevs.in/Mnctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7_eko" tvg-name="Trans 7" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0076089b349_kPFK.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Trans 7
+https://smt.giptv.indevs.in/Trans7_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe907d0f9fb_rxyZ.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Transtv
+https://smt.giptv.indevs.in/Transtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV_eko" tvg-name="JTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0077280b78a_tAHQ.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",JTV
+https://smt.giptv.indevs.in/JTV_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Cinemax
+https://smt.giptv.indevs.in/Cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe906a86d36_gP9r.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Tvone
+https://smt.giptv.indevs.in/Tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMU_eko" tvg-name="TVMU" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0074cf550bf_Y0yL.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",TVMU
+https://smt.giptv.indevs.in/TVMU_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="Gtv" tvg-name="GTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463af7167fc_95Ol.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",GTV
+https://smt.giptv.indevs.in/Gtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rtv" tvg-name="RTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62f38e53d15bd_TDbd.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",RTV
+https://smt.giptv.indevs.in/Rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JakTV" tvg-name="Jak TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b1d1df8d_Pp10.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Jak TV
+https://smt.giptv.indevs.in/JakTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Inewstv" tvg-name="iNews TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b424fc79_hSEN.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",iNews TV
+https://smt.giptv.indevs.in/Inewstv/playlist.m3u8
+#EXTINF:-1 tvg-id="DaaiTV" tvg-name="Daai TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b5fc58d2_R114.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Daai TV
+https://smt.giptv.indevs.in/DaaiTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NetTV" tvg-name="Net TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b75a7203_1GdF.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Net TV
+https://smt.giptv.indevs.in/NetTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Animax
+https://smt.giptv.indevs.in/Animax/playlist.m3u8
+#EXTINF:-1 tvg-id="Ewtn" tvg-name="EWTN" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",EWTN
+https://smt.giptv.indevs.in/Ewtn/playlist.m3u8
+#EXTINF:-1 tvg-id="Alkareem" tvg-name="AlQuran AlKareem" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bb2666d3_MUwh.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",AlQuran AlKareem
+https://smt.giptv.indevs.in/Alkareem/playlist.m3u8
+#EXTINF:-1 tvg-id="TawafTV" tvg-name="Tawaf TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bc805240_fvfz.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Tawaf TV
+https://smt.giptv.indevs.in/TawafTV/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionPrime" tvg-name="Vision Prime" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bdb2da92_ZJ2K.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Vision Prime
+https://smt.giptv.indevs.in/VisionPrime/playlist.m3u8
+#EXTINF:-1 tvg-id="MuslimTV" tvg-name="Muslim TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bfceac3d_ERMT.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Muslim TV
+https://smt.giptv.indevs.in/MuslimTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicTV" tvg-name="Music TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5c59b9f86_i9Ef.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Music TV
+https://smt.giptv.indevs.in/MusicTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifestyle" tvg-name="Lifestyle&Fashion" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cb41c0ac_0XLC.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Lifestyle&Fashion
+https://smt.giptv.indevs.in/Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cd2f0f20_QB2k.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Entertain
+https://smt.giptv.indevs.in/Entertain/playlist.m3u8
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Hits
+https://smt.giptv.indevs.in/Hits/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Warner TV
+https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Fs" tvg-name="Fight Sports" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463abf255c8_GoT9.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Fight Sports
+https://smt.giptv.indevs.in/Fs/playlist.m3u8
+#EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",SCM
+https://smt.giptv.indevs.in/Weishimovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Thrill
+https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Hits Movie
+https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",tvN Movie
+https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",One
+https://smt.giptv.indevs.in/One/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestialindo" tvg-name="å¤©æ é »éCelestial Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",å¤©æ é »éCelestial Movies
+https://smt.giptv.indevs.in/Celestialindo/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Rock Actions
+https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="ð®ð© å°åº¦å°¼è¥¿äº | Indonesia",Rock Entertainment
+https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+#EXTINF:-1 tvg-id="Suntv" tvg-name="Sun TV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720bd5ad276_2fLh.png" group-title="ð®ð³ å°åº¦ | India",Sun TV HD
+https://smt.giptv.indevs.in/Suntv/playlist.m3u8
+#EXTINF:-1 tvg-id="Starvijay" tvg-name="Star Vijay" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bde79b44b581_zctk.png" group-title="ð®ð³ å°åº¦ | India",Star Vijay
+https://smt.giptv.indevs.in/Starvijay/playlist.m3u8
+#EXTINF:-1 tvg-id="Colorstam" tvg-name="Colors Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca447a45615_y5dY.png" group-title="ð®ð³ å°åº¦ | India",Colors Tamil
+https://smt.giptv.indevs.in/Colorstam/playlist.m3u8
+#EXTINF:-1 tvg-id="Sunmusic" tvg-name="Sun Music" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f86d564060e7_TLJ5.jpg" group-title="ð®ð³ å°åº¦ | India",Sun Music
+https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="Sunlife" tvg-name="Astro Sunlife" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/659febc9aa201_I6zi.jpeg" group-title="ð®ð³ å°åº¦ | India",Astro Sunlife
+https://smt.giptv.indevs.in/Sunlife/playlist.m3u8
+#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65828b9c056e9_ep50.jpg" group-title="ð®ð³ å°åº¦ | India",Astro Vaanavil
+https://smt.giptv.indevs.in/Vaanavil/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeetamil" tvg-name="Zee Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c21be323_jTbt.png" group-title="ð®ð³ å°åº¦ | India",Zee Tamil
+https://smt.giptv.indevs.in/Zeetamil/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeebusiness" tvg-name="Zee Business" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b459391b44df_6sLy.jpg" group-title="ð®ð³ å°åº¦ | India",Zee Business
+https://smt.giptv.indevs.in/Zeebusiness/playlist.m3u8
+#EXTINF:-1 tvg-id="news18tamil_raj" tvg-name="News 18 Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5df78e8a30d1f_FhMw.png" group-title="ð®ð³ å°åº¦ | India",News 18 Tamil
+https://smt.giptv.indevs.in/news18tamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca446205444_H53Z.jpg" group-title="ð®ð³ å°åº¦ | India",Adithya
+https://smt.giptv.indevs.in/Adithya/playlist.m3u8
+#EXTINF:-1 tvg-id="Makkaltv" tvg-name="Makkal TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a8fb0f567099_cWsS.jpg" group-title="ð®ð³ å°åº¦ | India",Makkal TV
+https://smt.giptv.indevs.in/Makkaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeeaction" tvg-name="Zee Action" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c3ad6398_MzK8.png" group-title="ð®ð³ å°åº¦ | India",Zee Action
+https://smt.giptv.indevs.in/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-id="Astroktv" tvg-name="Astro KTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65e2c2b71c8aa_vHS1.jpeg" group-title="ð®ð³ å°åº¦ | India",Astro KTV
+https://smt.giptv.indevs.in/Astroktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeetvhd" tvg-name="Zee TV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b89e4c687_YSn7.png" group-title="ð®ð³ å°åº¦ | India",Zee TV HD
+https://smt.giptv.indevs.in/Zeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b8b7e0ea9_n1Sp.png" group-title="ð®ð³ å°åº¦ | India",Zee Cinema HD
+https://smt.giptv.indevs.in/Zeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-id="Colorhd" tvg-name="Color HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1c2b1312_1OC1.png" group-title="ð®ð³ å°åº¦ | India",Color HD
+https://smt.giptv.indevs.in/Colorhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Starplushd" tvg-name="Starplus HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802455089e_lY3a.png" group-title="ð®ð³ å°åº¦ | India",Starplus HD
+https://smt.giptv.indevs.in/Starplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="Npicture" tvg-name="Picture HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1e1133e2_aNSE.png" group-title="ð®ð³ å°åº¦ | India",Picture HD
+https://smt.giptv.indevs.in/Npicture/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeenews" tvg-name="Zee News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1f5e3bdd_9US4.png" group-title="ð®ð³ å°åº¦ | India",Zee News
+https://smt.giptv.indevs.in/Zeenews/playlist.m3u8
+#EXTINF:-1 tvg-id="asianet_raj" tvg-name="Asianet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051cd3be76c_NCN2.jpg" group-title="ð®ð³ å°åº¦ | India",Asianet
+https://smt.giptv.indevs.in/asianet_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="asianetnews_raj" tvg-name="Asianet News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d89a68425e4f_5YMH.png" group-title="ð®ð³ å°åº¦ | India",Asianet News
+https://smt.giptv.indevs.in/asianetnews_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="discoveryworldtam_raj" tvg-name="Discovery World Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae6bc37c57_4are.jpg" group-title="ð®ð³ å°åº¦ | India",Discovery World Tamil
+https://smt.giptv.indevs.in/discoveryworldtam_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="historytam_raj" tvg-name="History Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae78b2bc27_e9E9.png" group-title="ð®ð³ å°åº¦ | India",History Tamil
+https://smt.giptv.indevs.in/historytam_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="natgeotamil_raj" tvg-name="NatGeo Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af69bb9249_fbAn.png" group-title="ð®ð³ å°åº¦ | India",NatGeo Tamil
+https://smt.giptv.indevs.in/natgeotamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="natgeowildtamil_raj" tvg-name="Natgeo Wild Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af6e3dec12_1y8U.jpg" group-title="ð®ð³ å°åº¦ | India",Natgeo Wild Tamil
+https://smt.giptv.indevs.in/natgeowildtamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="discoverykidtamil_raj" tvg-name="Discovery Kids Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af7807ed93_9kNf.png" group-title="ð®ð³ å°åº¦ | India",Discovery Kids Tamil
+https://smt.giptv.indevs.in/discoverykidtamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="sonyyaytam_raj" tvg-name="Sony Yay Tamil" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d8c31234c5c2_bSx0.jpg" group-title="ð®ð³ å°åº¦ | India",Sony Yay Tamil
+https://smt.giptv.indevs.in/sonyyaytam_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="suntv_raj" tvg-name="Sun TV India" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e91c61d3_92Qa.png" group-title="ð®ð³ å°åº¦ | India",Sun TV India
+https://smt.giptv.indevs.in/suntv_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="starmaa_raj" tvg-name="Starmaa HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611323e2ed95e_22zj.jpeg" group-title="ð®ð³ å°åº¦ | India",Starmaa HD
+https://smt.giptv.indevs.in/starmaa_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="starmaamovies_raj" tvg-name="Starmaa Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611324084bb32_6dsS.jpeg" group-title="ð®ð³ å°åº¦ | India",Starmaa Movies HD
+https://smt.giptv.indevs.in/starmaamovies_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="vijaysuper_raj" tvg-name="Vijay Super" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802bbaaf57_eL3y.jpg" group-title="ð®ð³ å°åº¦ | India",Vijay Super
+https://smt.giptv.indevs.in/vijaysuper_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007ddb953e7_gcyW.png" group-title="ð®ð³ å°åº¦ | India",Bollyone
+https://smt.giptv.indevs.in/Bollyone/playlist.m3u8
+#EXTINF:-1 tvg-id="Sunmusic" tvg-name="Astro Sunmusic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007f816651c_PI50.png" group-title="ð®ð³ å°åº¦ | India",Astro Sunmusic
+https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="Thangathirai" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282f8f72628_xa5b.jpeg" group-title="ð®ð³ å°åº¦ | India",Thangathirai
+https://smt.giptv.indevs.in/Thangathirai/playlist.m3u8
+#EXTINF:-1 tvg-id="Vinmeen" tvg-name="Vinmeen" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282fb923acd_QsnE.jpeg" group-title="ð®ð³ å°åº¦ | India",Vinmeen
+https://smt.giptv.indevs.in/Vinmeen/playlist.m3u8
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66c8e2afe9fa7_NNg5.png" group-title="ð®ð³ å°åº¦ | India",Vellithirai
+https://smt.giptv.indevs.in/Vellithirai/playlist.m3u8
+#EXTINF:-1 tvg-id="sonypix" tvg-name="Sony Pictures HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b5671debb_ss5R.png" group-title="ð®ð³ å°åº¦ | India",Sony Pictures HD
+https://smt.giptv.indevs.in/sonypix/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc1_antik" tvg-name="BBC 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181361dee5_MDjl.jpg" group-title="ð¬ð§ è±å | United Kingdom",BBC 1
+https://smt.giptv.indevs.in/bbc1_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc2_antik" tvg-name="BBC 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f91814fb3817_6fDV.jpg" group-title="ð¬ð§ è±å | United Kingdom",BBC 2
+https://smt.giptv.indevs.in/bbc2_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="cbbc_antik" tvg-name="CBBC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f918166c532d_110a.jpg" group-title="ð¬ð§ è±å | United Kingdom",CBBC
+https://smt.giptv.indevs.in/cbbc_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="more4_antik" tvg-name="More4" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181811cd7e_4j9Z.jpg" group-title="ð¬ð§ è±å | United Kingdom",More4
+https://smt.giptv.indevs.in/more4_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="freesports_antik" tvg-name="Freesports" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181a34f4e3_zN3L.jpg" group-title="ð¬ð§ è±å | United Kingdom",Freesports
+https://smt.giptv.indevs.in/freesports_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="picktv_antik" tvg-name="Pick TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181e4b38f9_jR8W.jpg" group-title="ð¬ð§ è±å | United Kingdom",Pick TV
+https://smt.giptv.indevs.in/picktv_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="itv1_antik" tvg-name="itv 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182016df26_zzZM.jpg" group-title="ð¬ð§ è±å | United Kingdom",itv 1
+https://smt.giptv.indevs.in/itv1_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="itv2_antik" tvg-name="itv 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f918215f26bb_VGZv.jpg" group-title="ð¬ð§ è±å | United Kingdom",itv 2
+https://smt.giptv.indevs.in/itv2_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" group-title="ð¬ð§ è±å | United Kingdom",CGTN
+https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews_antik" tvg-name="Euronews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182b681697_201z.jpg" group-title="ð¬ð§ è±å | United Kingdom",Euronews
+https://smt.giptv.indevs.in/euronews_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="channel4_antik" tvg-name="Channel 4" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182d04d794_7Rsu.jpg" group-title="ð¬ð§ è±å | United Kingdom",Channel 4
+https://smt.giptv.indevs.in/channel4_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="ð¬ð§ è±å | United Kingdom",DW (Deutsch)
+https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" group-title="ð¬ð§ è±å | United Kingdom",NatGeo HD
+https://smt.giptv.indevs.in/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e18119f1_p4EF.png" group-title="ð¬ð§ è±å | United Kingdom",CBeebies
+https://smt.giptv.indevs.in/Cbeebies/playlist.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" group-title="ð¬ð§ è±å | United Kingdom",History
+https://smt.giptv.indevs.in/History/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV" tvg-name="Kids TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e438e0b2_0Zl3.png" group-title="ð¬ð§ è±å | United Kingdom",Kids TV
+https://smt.giptv.indevs.in/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" group-title="ð¬ð§ è±å | United Kingdom",BBC Earth HD
+https://smt.giptv.indevs.in/bbcearth_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" group-title="ð¬ð§ è±å | United Kingdom",BBC Earth Lifestyle
+https://smt.giptv.indevs.in/bbclifestyle_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="ð¬ð§ è±å | United Kingdom",MTV Live
+https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="ð¬ð§ è±å | United Kingdom",Star Movies HD
+https://smt.giptv.indevs.in/starmovies_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="ð¬ð§ è±å | United Kingdom",NHK World
+https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="ð¬ð§ è±å | United Kingdom",Warner TV
+https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="ð¬ð§ è±å | United Kingdom",Thrill
+https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="ð¬ð§ è±å | United Kingdom",HGTV
+https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="ð¬ð§ è±å | United Kingdom",TLC
+https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="ð¬ð§ è±å | United Kingdom",Axn HD
+https://smt.giptv.indevs.in/Axn/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="ð¬ð§ è±å | United Kingdom",HBO HD
+https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="ð¬ð§ è±å | United Kingdom",Hits Movie
+https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773729d75f1_9N5b.png" group-title="ð¬ð§ è±å | United Kingdom",Nickelodeon
+https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickjr" tvg-name="Nick Jr" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773774ec65b_g2p5.png" group-title="ð¬ð§ è±å | United Kingdom",Nick Jr
+https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="Al-Jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" group-title="ð¬ð§ è±å | United Kingdom",Al-Jazeera
+https://smt.giptv.indevs.in/aljazeera_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="ð¬ð§ è±å | United Kingdom",Animal Planet (Eng)
+https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="bloomberg_twn" tvg-name="Bloomberg News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe1c7e1e0e_lTle.png" group-title="ð¬ð§ è±å | United Kingdom",Bloomberg News
+https://smt.giptv.indevs.in/bloomberg_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="ð¬ð§ è±å | United Kingdom",NatGeo Wild HD
+https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews_antik" tvg-name="BBC World News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182381dfb6_atk9.jpg" group-title="ð¬ð§ è±å | United Kingdom",BBC World News
+https://smt.giptv.indevs.in/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png" group-title="ð¬ð§ è±å | United Kingdom",CNBC
+https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e59a634e5_h4rA.png" group-title="ð¬ð§ è±å | United Kingdom",France 24
+https://smt.giptv.indevs.in/france24_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="skynews_twn" tvg-name="Skynews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg" group-title="ð¬ð§ è±å | United Kingdom",Skynews
+https://smt.giptv.indevs.in/skynews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Assp1" tvg-name="Astro PL 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3db81b45be_Hh0H.png" group-title="â½ é«è²é »é | Sports",Astro PL 1
+https://smt.giptv.indevs.in/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp1" tvg-name="Astro PL 1 (Back Up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352fad593a_NYzy.png" group-title="â½ é«è²é »é | Sports",Astro PL 1 (Back Up 1)
+https://smt.giptv.indevs.in/go_assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp1x" tvg-name="Astro PL 1 (Back Up 2)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873530f773d3_901z.png" group-title="â½ é«è²é »é | Sports",Astro PL 1 (Back Up 2)
+https://smt.giptv.indevs.in/go_assp1x/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp5" tvg-name="Astro W-Sports" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6717d4ed62014_CLKW.jpeg" group-title="â½ é«è²é »é | Sports",Astro W-Sports
+https://smt.giptv.indevs.in/go_assp5/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp2" tvg-name="Astro PL 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352e3bc356_Ze61.png" group-title="â½ é«è²é »é | Sports",Astro PL 2
+https://smt.giptv.indevs.in/go_assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="Wwe" tvg-name="WWE" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7e268145b2a_8D8s.png" group-title="â½ é«è²é »é | Sports",WWE
+https://smt.giptv.indevs.in/Wwe/playlist.m3u8
+#EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="åæ¯é«ç2 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" group-title="â½ é«è²é »é | Sports",åæ¯é«ç2 HD
+https://smt.giptv.indevs.in/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bositennis_twn" tvg-name="åæ¯ç½ç HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" group-title="â½ é«è²é »é | Sports",åæ¯ç½ç HD
+https://smt.giptv.indevs.in/bositennis_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Fs" tvg-name="Fight Sports" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463abf255c8_GoT9.png" group-title="â½ é«è²é »é | Sports",Fight Sports
+https://smt.giptv.indevs.in/Fs/playlist.m3u8
+#EXTINF:-1 tvg-id="Nba" tvg-name="NBA TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c2e37740d88a_LHbt.png" group-title="â½ é«è²é »é | Sports",NBA TV
+https://smt.giptv.indevs.in/Nba/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" group-title="â½ é«è²é »é | Sports",Arena
+https://smt.giptv.indevs.in/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" group-title="â½ é«è²é »é | Sports",Arena 2
+https://smt.giptv.indevs.in/Arena2/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolaarena1" tvg-name="Arena Bola 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" group-title="â½ é«è²é »é | Sports",Arena Bola 1
+https://smt.giptv.indevs.in/Bolaarena1/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolaarena2" tvg-name="Arena Bola 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" group-title="â½ é«è²é »é | Sports",Arena Bola 2
+https://smt.giptv.indevs.in/Bolaarena2/playlist.m3u8
+#EXTINF:-1 tvg-id="Agolf" tvg-name="Astro Golf" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6313d0823d489_cuuc.png" group-title="â½ é«è²é »é | Sports",Astro Golf
+https://smt.giptv.indevs.in/Agolf/playlist.m3u8
+#EXTINF:-1 tvg-id="Rtmsport" tvg-name="RTM Sports HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg" group-title="â½ é«è²é »é | Sports",RTM Sports HD
+https://smt.giptv.indevs.in/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp4" tvg-name="Astro Football" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352f02420a_U9RC.png" group-title="â½ é«è²é »é | Sports",Astro Football
+https://smt.giptv.indevs.in/go_assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="Assp4" tvg-name="Astro Football (Back Up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3daee1904e_K0Yv.png" group-title="â½ é«è²é »é | Sports",Astro Football (Back Up 1)
+https://smt.giptv.indevs.in/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="go_badminton1" tvg-name="Astro Badminton" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" group-title="â½ é«è²é »é | Sports",Astro Badminton
+https://smt.giptv.indevs.in/go_badminton1/playlist.m3u8
+#EXTINF:-1 tvg-id="go_badminton2" tvg-name="Astro Badminton 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="â½ é«è²é »é | Sports",Astro Badminton 2
+https://smt.giptv.indevs.in/go_badminton2/playlist.m3u8
+#EXTINF:-1 tvg-id="go_spotv" tvg-name="SPOTV 1 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/644eaba65a543_A0u6.png" group-title="â½ é«è²é »é | Sports",SPOTV 1 HD
+https://smt.giptv.indevs.in/go_spotv/playlist.m3u8
+#EXTINF:-1 tvg-id="go_spotv2" tvg-name="SPO TV 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636ce992c5fb3_4XFa.png" group-title="â½ é«è²é »é | Sports",SPO TV 2
+https://smt.giptv.indevs.in/go_spotv2/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 é«è²" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" group-title="â½ é«è²é »é | Sports",CCTV-5 é«è²
+https://smt.giptv.indevs.in/cctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ é«è²" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" group-title="â½ é«è²é »é | Sports",CCTV-5+ é«è²
+https://smt.giptv.indevs.in/cctv5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Assp2" tvg-name="Supersports 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg" group-title="â½ é«è²é »é | Sports",Supersports 2
+https://smt.giptv.indevs.in/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="go_assp3" tvg-name="Astro Grandstand" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873520deb744_WA4y.png" group-title="â½ é«è²é »é | Sports",Astro Grandstand
+https://smt.giptv.indevs.in/go_assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="Acricket" tvg-name="Astro Cricket" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63b0f03b82a7a_ca4k.png" group-title="â½ é«è²é »é | Sports",Astro Cricket
+https://smt.giptv.indevs.in/Acricket/playlist.m3u8
+#EXTINF:-1 tvg-id="tntsport1" tvg-name="Tnt Sports 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fec4a8044_bwpD.png" group-title="â½ é«è²é »é | Sports",Tnt Sports 1
+https://smt.giptv.indevs.in/tntsport1/playlist.m3u8
+#EXTINF:-1 tvg-id="Assp3" tvg-name="Astro Grandstand (Back Up 1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dab338837_y8bs.png" group-title="â½ é«è²é »é | Sports",Astro Grandstand (Back Up 1)
+https://smt.giptv.indevs.in/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="tntsport2" tvg-name="TNT Sports 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fed5dbbd6_2ez5.png" group-title="â½ é«è²é »é | Sports",TNT Sports 2
+https://smt.giptv.indevs.in/tntsport2/playlist.m3u8
+#EXTINF:-1 tvg-id="tntsport3" tvg-name="TNT Sports 3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fee405567_7p3b.png" group-title="â½ é«è²é »é | Sports",TNT Sports 3
+https://smt.giptv.indevs.in/tntsport3/playlist.m3u8
+#EXTINF:-1 tvg-id="tntsport4" tvg-name="TNT Sports 4" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fef17a1b7_THvq.png" group-title="â½ é«è²é »é | Sports",TNT Sports 4
+https://smt.giptv.indevs.in/tntsport4/playlist.m3u8
+#EXTINF:-1 tvg-id="go_sportsplus" tvg-name="Astro Sports Plus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873535cc3304_c1LG.png" group-title="â½ é«è²é »é | Sports",Astro Sports Plus
+https://smt.giptv.indevs.in/go_sportsplus/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Eltaä½è²1å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" group-title="â½ é«è²é »é | Sports",Eltaä½è²1å°
+https://smt.giptv.indevs.in/eltasport1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Eltaé«è²2å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" group-title="â½ é«è²é »é | Sports",Eltaé«è²2å°
+https://smt.giptv.indevs.in/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Eltaé«è²3å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" group-title="â½ é«è²é »é | Sports",Eltaé«è²3å°
+https://smt.giptv.indevs.in/eltasport3_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugbypasstv" tvg-name="Rugby Pass TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007fee62c4f_Sk2S.png" group-title="â½ é«è²é »é | Sports",Rugby Pass TV
+https://smt.giptv.indevs.in/Rugbypasstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrobein1" tvg-name="Astro Beinsports 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c6028713_cGsV.jpeg" group-title="â½ é«è²é »é | Sports",Astro Beinsports 1
+https://smt.giptv.indevs.in/Astrobein1/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrobein2" tvg-name="Astro Beinsports 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c8fe4e81_wV3l.jpeg" group-title="â½ é«è²é »é | Sports",Astro Beinsports 2
+https://smt.giptv.indevs.in/Astrobein2/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrobein3" tvg-name="Astro Beinsports 3" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49ca8b4d0f_h999.jpeg" group-title="â½ é«è²é »é | Sports",Astro Beinsports 3
+https://smt.giptv.indevs.in/Astrobein3/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongcricket" tvg-name="Skysports Cricket" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b83271dcd_Bwme.png" group-title="â½ é«è²é »é | Sports",Skysports Cricket
+https://smt.giptv.indevs.in/tiankongcricket/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongepl" tvg-name="Skysports EPL" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b85b83d1f_l6Dz.png" group-title="â½ é«è²é »é | Sports",Skysports EPL
+https://smt.giptv.indevs.in/tiankongepl/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongf1" tvg-name="Skysports F1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b87c2d727_E7CU.png" group-title="â½ é«è²é »é | Sports",Skysports F1
+https://smt.giptv.indevs.in/tiankongf1/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankonggolf" tvg-name="Skysports Golf" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8a043a6f_1ZT6.png" group-title="â½ é«è²é »é | Sports",Skysports Golf
+https://smt.giptv.indevs.in/tiankonggolf/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongmain" tvg-name="Skysports Main Event" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8c44cc6f_ILRn.png" group-title="â½ é«è²é »é | Sports",Skysports Main Event
+https://smt.giptv.indevs.in/tiankongmain/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongmix" tvg-name="Skysports Mix" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8daa4763_e00V.png" group-title="â½ é«è²é »é | Sports",Skysports Mix
+https://smt.giptv.indevs.in/tiankongmix/playlist.m3u8
+#EXTINF:-1 tvg-id="tiankongracing" tvg-name="Skysports Racing" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b9cd53a9b_MMsH.png" group-title="â½ é«è²é »é | Sports",Skysports Racing
+https://smt.giptv.indevs.in/tiankongracing/playlist.m3u8
+#EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="â½ é«è²é »é | Sports",DAZN 1
+https://smt.giptv.indevs.in/dazn1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="â½ é«è²é »é | Sports",DAZN 2
+https://smt.giptv.indevs.in/dazn2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcdd832b40_4793.png" group-title="â½ é«è²é »é | Sports",Eurosport
+https://smt.giptv.indevs.in/Eurosport/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 é»å½±" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="ð¬ é»å½±é »é | Movies",CCTV-6 é»å½±
+https://smt.giptv.indevs.in/cctv6/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="ð¬ é»å½±é »é | Movies",HBO_HD
+https://smt.giptv.indevs.in/hbohd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="ð¬ é»å½±é »é | Movies",HBO_HITS
+https://smt.giptv.indevs.in/hbohits_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="ð¬ é»å½±é »é | Movies",HBO Signature Taiwan
+https://smt.giptv.indevs.in/hbosignature_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="ð¬ é»å½±é »é | Movies",Hollywood Movies
+https://smt.giptv.indevs.in/hollywoodmovies_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="ð¬ é»å½±é »é | Movies",AXN Taiwan
+https://smt.giptv.indevs.in/axn_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="ð¬ é»å½±é »é | Movies",CINEMAX
+https://smt.giptv.indevs.in/cinemax_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="ð¬ é»å½±é »é | Movies",Cinemax
+https://smt.giptv.indevs.in/Cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="daai2_twn" tvg-name="å¤§ç±2å°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="ð¬ é»å½±é »é | Movies",å¤§ç±2å°
+https://smt.giptv.indevs.in/daai2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="ä¸æ£®çµå½± ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="ð¬ é»å½±é »é | Movies",ä¸æ£®çµå½± ETTV Movie
+https://smt.giptv.indevs.in/ettvmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="ä¸æ£®æ´ç ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="ð¬ é»å½±é »é | Movies",ä¸æ£®æ´ç ETTV Western
+https://smt.giptv.indevs.in/ettvwestern/playlist.m3u8
+#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="é¾åæ´ç Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="ð¬ é»å½±é »é | Movies",é¾åæ´ç Lunghua Western
+https://smt.giptv.indevs.in/lunghuawestern_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="ð¬ é»å½±é »é | Movies",Animax
+https://smt.giptv.indevs.in/Animax/playlist.m3u8
+#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="é¾è¯¦æ¶ä»£" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="ð¬ é»å½±é »é | Movies",é¾è¯¦æ¶ä»£
+https://smt.giptv.indevs.in/lungxiangtime_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f91b795d2_KROR.png" group-title="ð¬ é»å½±é »é | Movies",Movies Now HD
+https://smt.giptv.indevs.in/moviesnow_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="ð¬ é»å½±é »é | Movies",Star Movies HD
+https://smt.giptv.indevs.in/starmovies_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="å«è§ä¸­æå° Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="ð¬ é»å½±é »é | Movies",å«è§ä¸­æå° Star Movies Chinese
+https://smt.giptv.indevs.in/weishichinese_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" group-title="ð¬ é»å½±é »é | Movies",Hits
+https://smt.giptv.indevs.in/Hits/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="ð¬ é»å½±é »é | Movies",Warner TV
+https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="ç¾äºçµå½±" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="ð¬ é»å½±é »é | Movies",ç¾äºçµå½±
+https://smt.giptv.indevs.in/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" group-title="ð¬ é»å½±é »é | Movies",SCM
+https://smt.giptv.indevs.in/Weishimovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="ð¬ é»å½±é »é | Movies",Thrill
+https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="ð¬ é»å½±é »é | Movies",HBO Family
+https://smt.giptv.indevs.in/Hbofamily/playlist.m3u8
+#EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="ð¬ é»å½±é »é | Movies",Axn HD
+https://smt.giptv.indevs.in/Axn/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="ð¬ é»å½±é »é | Movies",HBO HD
+https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbosignature" tvg-name="HBO Signature" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="ð¬ é»å½±é »é | Movies",HBO Signature
+https://smt.giptv.indevs.in/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="ð¬ é»å½±é »é | Movies",HBO Hits
+https://smt.giptv.indevs.in/Hbohitshd/playlist.m3u8
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" group-title="ð¬ é»å½±é »é | Movies",Dreamworks
+https://smt.giptv.indevs.in/Dreamworks/playlist.m3u8
+#EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="ð¬ é»å½±é »é | Movies",Hits Movie
+https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="ð¬ é»å½±é »é | Movies",tvN Movie
+https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" group-title="ð¬ é»å½±é »é | Movies",Astrol Kplus
+https://smt.giptv.indevs.in/Kplus/playlist.m3u8
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="ð¬ é»å½±é »é | Movies",One
+https://smt.giptv.indevs.in/One/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestialindo" tvg-name="å¤©æ é »éCelestial Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="ð¬ é»å½±é »é | Movies",å¤©æ é »éCelestial Movies
+https://smt.giptv.indevs.in/Celestialindo/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" group-title="ð¬ é»å½±é »é | Movies",Celestial Classic
+https://smt.giptv.indevs.in/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="ð¬ é»å½±é »é | Movies",Rock Actions
+https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+#EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="ð¬ é»å½±é »é | Movies",Rock Entertainment
+https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+#EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png" group-title="ð ç´éé »é | Documentary",CI
+https://smt.giptv.indevs.in/ci_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" group-title="ð ç´éé »é | Documentary",Asia Travel
+https://smt.giptv.indevs.in/asiatravel_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="afc_twn" tvg-name="äºæ´²ç¾é£" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="ð ç´éé »é | Documentary",äºæ´²ç¾é£
+https://smt.giptv.indevs.in/afc_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" group-title="ð ç´éé »é | Documentary",NatGeo HD
+https://smt.giptv.indevs.in/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg" group-title="ð ç´éé »é | Documentary",Fashion TV
+https://smt.giptv.indevs.in/fashiontv_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" group-title="ð ç´éé »é | Documentary",History
+https://smt.giptv.indevs.in/History/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" group-title="ð ç´éé »é | Documentary",BBC Earth HD
+https://smt.giptv.indevs.in/bbcearth_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" group-title="ð ç´éé »é | Documentary",BBC Earth Lifestyle
+https://smt.giptv.indevs.in/bbclifestyle_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc_twn" tvg-name="äºæ´²ææ¸¸ TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="ð ç´éé »é | Documentary",äºæ´²ææ¸¸ TLC Asia
+https://smt.giptv.indevs.in/tlc_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="ð ç´éé »é | Documentary",MTV Live
+https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" group-title="ð ç´éé »é | Documentary",NatGeo_Wild HD
+https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="ð ç´éé »é | Documentary",Animal_Planet
+https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="ð ç´éé »é | Documentary",HGTV
+https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="ð ç´éé »é | Documentary",TLC
+https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" group-title="ð ç´éé »é | Documentary",Foodnetwork Hd
+https://smt.giptv.indevs.in/Foodnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="ð ç´éé »é | Documentary",Asia Food Network
+https://smt.giptv.indevs.in/Afc/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="ð ç´éé »é | Documentary",Animal Planet (Eng)
+https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="ð ç´éé »é | Documentary",NatGeo Wild HD
+https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" group-title="ð ç´éé »é | Documentary",Discovery Asia
+https://smt.giptv.indevs.in/Discoveryasia/playlist.m3u8
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" group-title="ð ç´éé »é | Documentary",Dmax
+https://smt.giptv.indevs.in/Dmax/playlist.m3u8
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="æ¢ç´¢é¢é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="ð ç´éé »é | Documentary",æ¢ç´¢é¢é
+https://smt.giptv.indevs.in/discoverych_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="abcnews_glo" tvg-name="ABC News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg" group-title="ð° æ°èé »é | News",ABC News
+https://smt.giptv.indevs.in/abcnews_glo/playlist.m3u8
+#EXTINF:-1 tvg-id="inews_twn" tvg-name="iNews äºåæ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" group-title="ð° æ°èé »é | News",iNews äºåæ°èå°
+https://smt.giptv.indevs.in/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="cbshd_glo" tvg-name="CBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8822242313_f6rG.png" group-title="ð° æ°èé »é | News",CBS HD
+https://smt.giptv.indevs.in/cbshd_glo/playlist.m3u8
+#EXTINF:-1 tvg-id="cbsn_glo" tvg-name="CBSN HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb882d8dc647_oT2y.jpg" group-title="ð° æ°èé »é | News",CBSN HD
+https://smt.giptv.indevs.in/cbsn_glo/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 æ°èèé »é" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png" group-title="ð° æ°èé »é | News",CCTV-13 æ°èèé »é
+https://smt.giptv.indevs.in/cctv13/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" group-title="ð° æ°èé »é | News",CGTN
+https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="ð° æ°èé »é | News",DW (Deutsch)
+https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/623d9e56cce2f_NDGe.png" group-title="ð° æ°èé »é | News",Fox News
+https://smt.giptv.indevs.in/foxnews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="ð° æ°èé »é | News",NHK World
+https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" group-title="ð° æ°èé »é | News",TVBS News æ°èå°
+https://smt.giptv.indevs.in/tvbs_n/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="Al-Jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" group-title="ð° æ°èé »é | News",Al-Jazeera
+https://smt.giptv.indevs.in/aljazeera_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="bloomberg_twn" tvg-name="Bloomberg News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe1c7e1e0e_lTle.png" group-title="ð° æ°èé »é | News",Bloomberg News
+https://smt.giptv.indevs.in/bloomberg_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvnews" tvg-name="æ±æ£®æ°è ETTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" group-title="ð° æ°èé »é | News",æ±æ£®æ°è ETTV News
+https://smt.giptv.indevs.in/ettvnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="æ±æ£®è²¡ç¶æ°è ETTV Business" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" group-title="ð° æ°èé »é | News",æ±æ£®è²¡ç¶æ°è ETTV Business
+https://smt.giptv.indevs.in/ettvcaijing_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ctinews" tvg-name="ä¸­å¤©æ°è CTI News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" group-title="ð° æ°èé »é | News",ä¸­å¤©æ°è CTI News
+https://smt.giptv.indevs.in/ctinews/playlist.m3u8
+#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="éå¡æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" group-title="ð° æ°èé »é | News",éå¡æ°èå°
+https://smt.giptv.indevs.in/feifannews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="å°è¦æ°èå° TTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" group-title="ð° æ°èé »é | News",å°è¦æ°èå° TTV News
+https://smt.giptv.indevs.in/ttvnews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="æ°è¦æ°èå° FTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" group-title="ð° æ°èé »é | News",æ°è¦æ°èå° FTV News
+https://smt.giptv.indevs.in/ftvnew_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al_Jazeera" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" group-title="ð° æ°èé »é | News",Al_Jazeera
+https://smt.giptv.indevs.in/Aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="å¯°å®æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" group-title="ð° æ°èé »é | News",å¯°å®æ°èå°
+https://smt.giptv.indevs.in/huanyuxinwen_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="ä¸­è¦æ°èå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" group-title="ð° æ°èé »é | News",ä¸­è¦æ°èå°
+https://smt.giptv.indevs.in/zhongshinews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" group-title="ð° æ°èé »é | News",CNN
+https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" group-title="ð° æ°èé »é | News",CNN backup
+https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f69e925d7c6c_0tcF.png" group-title="ð° æ°èé »é | News",BBC World News
+https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/647234ed62f99_Z1I1.png" group-title="ð° æ°èé »é | News",BBC World News
+https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png" group-title="ð° æ°èé »é | News",CNBC
+https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcbc5460bb_wkzS.png" group-title="ð° æ°èé »é | News",Bloomberg TV
+https://smt.giptv.indevs.in/Bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="ð° æ°èé »é | News",CNA
+https://smt.giptv.indevs.in/cna/playlist.m3u8
+#EXTINF:-1 tvg-id="Dw" tvg-name="DW" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcc5bf2af2_QS8q.png" group-title="ð° æ°èé »é | News",DW
+https://smt.giptv.indevs.in/Dw/playlist.m3u8
+#EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e59a634e5_h4rA.png" group-title="ð° æ°èé »é | News",France 24
+https://smt.giptv.indevs.in/france24_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-name="France 24" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccbf74ff6_GXzb.png" group-title="ð° æ°èé »é | News",France 24
+https://smt.giptv.indevs.in/France24/playlist.m3u8
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbce29bcfe9_RNF6.png" group-title="ð° æ°èé »é | News",Skynews
+https://smt.giptv.indevs.in/Skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="skynews_twn" tvg-name="Skynews" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg" group-title="ð° æ°èé »é | News",Skynews
+https://smt.giptv.indevs.in/skynews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKpremium" tvg-name="NHK Premium" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbceda857b0_rPg7.png" group-title="ð° æ°èé »é | News",NHK Premium
+https://smt.giptv.indevs.in/NHKpremium/playlist.m3u8
+#EXTINF:-1 tvg-id="Ind_babytv" tvg-name="Baby TV Eng" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f540b4e38_uBBV.jpg" group-title="ð§¸ åç«¥é »é | Kids",Baby TV Eng
+https://smt.giptv.indevs.in/Ind_babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e18119f1_p4EF.png" group-title="ð§¸ åç«¥é »é | Kids",CBeebies
+https://smt.giptv.indevs.in/Cbeebies/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV" tvg-name="Kids TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e438e0b2_0Zl3.png" group-title="ð§¸ åç«¥é »é | Kids",Kids TV
+https://smt.giptv.indevs.in/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="momo1_twn" tvg-name="Momo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fdc625e9ea_YD9m.png" group-title="ð§¸ åç«¥é »é | Kids",Momo TV
+https://smt.giptv.indevs.in/momo1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="ð§¸ åç«¥é »é | Kids",Animax
+https://smt.giptv.indevs.in/Animax/playlist.m3u8
+#EXTINF:-1 tvg-id="babytv_twn" tvg-name="Baby TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f01c5df39001_XL62.jpg" group-title="ð§¸ åç«¥é »é | Kids",Baby TV
+https://smt.giptv.indevs.in/babytv_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="ð§¸ åç«¥é »é | Kids",MiaoMi
+https://smt.giptv.indevs.in/MiaoMi/playlist.m3u8
+#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="éå¤©å¡éå°" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" group-title="ð§¸ åç«¥é »é | Kids",éå¤©å¡éå°
+https://smt.giptv.indevs.in/jingtiancartoon_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="ä¸æ£®å¹¼å¹¼ Yoyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" group-title="ð§¸ åç«¥é »é | Kids",ä¸æ£®å¹¼å¹¼ Yoyo TV
+https://smt.giptv.indevs.in/yoyo_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773729d75f1_9N5b.png" group-title="ð§¸ åç«¥é »é | Kids",Nickelodeon
+https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickjr" tvg-name="Nick Jr" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773774ec65b_g2p5.png" group-title="ð§¸ åç«¥é »é | Kids",Nick Jr
+https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2158e819c10_pwud.png" group-title="ð§¸ åç«¥é »é | Kids",Cartoon Network
+https://smt.giptv.indevs.in/Cn/playlist.m3u8
+
 #EXTINF:-1 tvg-name="å¨ææ" tvg-logo="https://logo.catvod.com/å¨ææ.png" group-title="â¨ï¸çµå½±",å¨ææ
 http://feilong123.vip/huya.php?raw=1&id=11342412
 #EXTINF:-1 tvg-name="æé¾" tvg-logo="https://logo.catvod.com/æé¾.png" group-title="â¨ï¸çµå½±",æé¾

@@ -9771,12 +9771,17 @@ FUSION,p3p://focus169.org:47555/64682d86000d9dd7f049c5be62a544dc
 INVESTMENT PITCH,p3p://focus169.org:47555/64682d920000784af049f14136c47100
 CCX,p3p://focus169.org:47555/64682d9d0007d19ef04a1e1b33280293 
 â¤ï¸å¿é£æ_0,#genre#
+åå©å°1,http://bl.qxshares.com:80/live/a433edd62773170719533dbdf5eec995.flv
+åå©å°2,http://bl.qxshares.com:80/live/5a012bbc56af9b1d601b63f4c1f3df44.flv
+åå©å°3,http://bl.qxshares.com:80/live/e7f2da8ed5d92d4ed136efa918475d7c.flv
+æéåå©4,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uQqKhu&tk=gF4RRcfVAPaS
+
 åå©å°1,http://156.238.248.80/hyxw.index.m3u8
 åå©å°2,http://156.238.248.80/dsxw.index.m3u8
 åå©å°3,http://156.238.248.80/ztxw.index.m3u8
 é©è·åå©,http://156.238.248.80/ztzh.index.m3u8
 åå©æ½æµæ,http://156.238.248.80/mstwt.index.m3u8
-æéçµå½±å°,httpihou.cc:555/tv/hktv%2Fjstv
+æéçµå½±å°,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uQqKhu&tk=gF4RRcfVAPaS
 èè±å°,http://rihou.cc:555/tv/hktv%2F0888
 è±è±å¬å­,http://rihou.cc:555/tv/hktv%2F0889
 PopCçµå½±,http://rihou.cc:555/tv/hktv%2Fpopc
