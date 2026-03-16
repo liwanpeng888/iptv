@@ -9,8 +9,15 @@ name: 'Update schedule'
 # Many scheduled workflows from forks can cause workflows to be disabled.
 # If scheduled execution is required, use other deployment methods.
 
+# 添加权限配置 - 这是关键！
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
+  # 如果你想要定时执行，可以取消下面的注释
+  # schedule:
+  #   - cron: '0 0 * * *'  # 每天 UTC 0 点执行
 
 jobs:
   push:
@@ -22,29 +29,38 @@ jobs:
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+        
       - uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}
+          
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
           update-environment: true
           cache: 'pipenv'
+          
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        
       - name: Install pipenv
         run: pip3 install --user pipenv
-      - name: Install dependecies
+        
+      - name: Install dependencies  # 修正拼写错误：dependecies -> dependencies
         run: pipenv --python 3.13 && pipenv install --deploy
+        
       - name: Update
         run: pipenv run dev
+        
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
           if ! git diff --staged --quiet; then
-            git commit -m "Github Action Auto Updated"
-            git push --force
+            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
           fi
