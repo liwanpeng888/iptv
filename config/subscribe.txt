@@ -2,6 +2,10 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gitee.com/huoxu888/tv/raw/master/ah.m3u
+https://gitee.com/huoxu888/tv/raw/master/ahyd
+https://gitee.com/huoxu888/tv/raw/master/%E5%AE%89%E5%BE%BD%E7%A7%BB%E5%8A%A8
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
 https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
