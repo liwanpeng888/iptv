@@ -16,8 +16,8 @@ permissions:
 on:
   workflow_dispatch:
   # 如果你想要定时执行，可以取消下面的注释
-  # schedule:
-  #   - cron: '0 0 * * *'  # 每天 UTC 0 点执行
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 0 点执行
 
 jobs:
   push:
@@ -30,12 +30,15 @@ jobs:
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
         
-      - uses: actions/checkout@v3
+      # 更新 actions/checkout 到 v4
+      - uses: actions/checkout@v4
         with:
           ref: ${{ env.BRANCH_NAME }}
+          fetch-depth: 0  # 获取完整历史，避免冲突
           
+      # 更新 actions/setup-python 到 v5
       - name: Run with setup-python 3.13
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           update-environment: true
@@ -47,7 +50,7 @@ jobs:
       - name: Install pipenv
         run: pip3 install --user pipenv
         
-      - name: Install dependencies  # 修正拼写错误：dependecies -> dependencies
+      - name: Install dependencies
         run: pipenv --python 3.13 && pipenv install --deploy
         
       - name: Update
@@ -58,9 +61,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
+          
           if ! git diff --staged --quiet; then
             git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
+            
+            # 先拉取远程更改，再推送
+            echo "拉取远程更改..."
+            git pull origin ${{ env.BRANCH_NAME }} --rebase --autostash
+            
+            echo "推送更改..."
+            git push origin ${{ env.BRANCH_NAME }}
           else
             echo "No changes to commit"
           fi
