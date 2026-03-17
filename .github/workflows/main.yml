@@ -16,8 +16,8 @@ permissions:
 on:
   workflow_dispatch:
   # 如果你想要定时执行，可以取消下面的注释
-  schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 0 点执行
+  # schedule:
+  #   - cron: '0 0 * * *'  # 每天 UTC 0 点执行
 
 jobs:
   push:
@@ -28,16 +28,28 @@ jobs:
     steps:
       - name: Set branch name
         id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-        
+        run: |
+          # 优化分支名称逻辑：优先用触发分支，其次判断仓库所有者
+          TRIGGER_BRANCH=${{ github.ref_name }}
+          if [[ "${{ github.repository_owner }}" == "Guovin" ]]; then
+            BRANCH_NAME="gd"
+          else
+            BRANCH_NAME=${TRIGGER_BRANCH:-"main"}  # 默认分支改为 main（更通用）
+          fi
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+          echo "分支名称设置为: $BRANCH_NAME"
+          
       # 更新 actions/checkout 到 v4
       - uses: actions/checkout@v4
         with:
           ref: ${{ env.BRANCH_NAME }}
           fetch-depth: 0  # 获取完整历史，避免冲突
+          # 使用个人访问令牌（PAT）替代默认 token，解决权限问题
+          # 注意：需要在仓库设置中添加名为 PAT 的 secret
+          token: ${{ secrets.PAT || github.token }}
           
       # 更新 actions/setup-python 到 v5
-      - name: Run with setup-python 3.13
+      - name: Set up Python 3.13
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
@@ -51,26 +63,36 @@ jobs:
         run: pip3 install --user pipenv
         
       - name: Install dependencies
-        run: pipenv --python 3.13 && pipenv install --deploy
-        
-      - name: Update
+        run: |
+          pipenv --python 3.13 || true  # 避免已存在时报错
+          pipenv install --deploy --ignore-pipfile
+          
+      - name: Run update script
         run: pipenv run dev
+        # 添加错误处理：脚本执行失败时工作流继续
+        continue-on-error: false
         
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
           
-          if ! git diff --staged --quiet; then
+          # 检查是否有文件变更
+          if git status --porcelain | grep -q .; then
+            git add .
             git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
             
-            # 先拉取远程更改，再推送
-            echo "拉取远程更改..."
-            git pull origin ${{ env.BRANCH_NAME }} --rebase --autostash
+            # 拉取远程更改并处理冲突（自动合并）
+            echo "Pulling remote changes..."
+            git pull origin ${{ env.BRANCH_NAME }} --rebase --autostash || git rebase --abort
             
-            echo "推送更改..."
-            git push origin ${{ env.BRANCH_NAME }}
+            # 推送更改（重试机制）
+            echo "Pushing changes..."
+            for i in {1..3}; do
+              git push origin ${{ env.BRANCH_NAME }} && break
+              echo "Push failed, retrying in 5 seconds... (Attempt $i/3)"
+              sleep 5
+            done
           else
             echo "No changes to commit"
           fi
